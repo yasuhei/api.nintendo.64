@@ -1,0 +1,7891 @@
+[
+  {
+    "_id": "60456ad4271ec082f7f581b7",
+    "title": "All Star Tennis '99",
+    "otherTitles": [
+      "Yannick Noah All Star Tennis '99"
+    ],
+    "developers": [
+      "Smart Dog"
+    ],
+    "publishers": [
+      "Ubi Soft"
+    ],
+    "genres": [
+      "Sports",
+      "Tennis"
+    ],
+    "firstReleased": "1999-01-01T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-08-31T00:00:00.000Z",
+    "euroRelease": "1999-01-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581b8",
+    "title": "All-Star Baseball '99",
+    "otherTitles": null,
+    "developers": [
+      "Iguana Entertainment"
+    ],
+    "publishers": [
+      "Acclaim Sports"
+    ],
+    "genres": [
+      "Sports",
+      "Baseball"
+    ],
+    "firstReleased": "1998-04-27T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-04-27T00:00:00.000Z",
+    "euroRelease": "1998-08-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581b9",
+    "title": "All-Star Baseball 2000",
+    "otherTitles": null,
+    "developers": [
+      "Iguana Entertainment"
+    ],
+    "publishers": [
+      "Acclaim Sports"
+    ],
+    "genres": [
+      "Sports",
+      "Baseball"
+    ],
+    "firstReleased": "1999-04-08T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-04-08T00:00:00.000Z",
+    "euroRelease": "1999-05-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581ba",
+    "title": "All-Star Baseball 2001",
+    "otherTitles": null,
+    "developers": [
+      "High Voltage Software"
+    ],
+    "publishers": [
+      "Acclaim Sports"
+    ],
+    "genres": [
+      "Sports",
+      "Baseball"
+    ],
+    "firstReleased": "2000-03-31T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-03-31T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581bb",
+    "title": "Armorines: Project S.W.A.R.M.",
+    "otherTitles": null,
+    "developers": [
+      "Acclaim Studios London"
+    ],
+    "publishers": [
+      "Acclaim Entertainment"
+    ],
+    "genres": [
+      "Action",
+      "First-Person Shooter"
+    ],
+    "firstReleased": "1999-12-09T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-12-09T00:00:00.000Z",
+    "euroRelease": "1999-12-17T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581bc",
+    "title": "Army Men: Air Combat",
+    "otherTitles": null,
+    "developers": [
+      "The 3DO Company"
+    ],
+    "publishers": [
+      "The 3DO Company"
+    ],
+    "genres": [
+      "Action",
+      "Third-Person Shooter"
+    ],
+    "firstReleased": "2000-07-19T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-07-19T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581bd",
+    "title": "Army Men: Sarge's Heroes",
+    "otherTitles": null,
+    "developers": [
+      "The 3DO Company"
+    ],
+    "publishers": [
+      "The 3DO Company"
+    ],
+    "genres": [
+      "Action",
+      "Third-Person Shooter"
+    ],
+    "firstReleased": "1999-09-28T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-09-28T00:00:00.000Z",
+    "euroRelease": "2000-04-14T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581be",
+    "title": "Army Men: Sarge's Heroes 2",
+    "otherTitles": null,
+    "developers": [
+      "The 3DO Company"
+    ],
+    "publishers": [
+      "The 3DO Company"
+    ],
+    "genres": [
+      "Action",
+      "Third-Person Shooter"
+    ],
+    "firstReleased": "2000-09-26T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-09-26T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581bf",
+    "title": "Asteroids Hyper 64",
+    "otherTitles": null,
+    "developers": [
+      "Syrox Developments"
+    ],
+    "publishers": [
+      "Crave Entertainment"
+    ],
+    "genres": [
+      "Action",
+      "Multidirectional Shooter"
+    ],
+    "firstReleased": "1999-12-14T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-12-14T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581c0",
+    "title": "Automobili Lamborghini",
+    "otherTitles": null,
+    "developers": [
+      "Titus France"
+    ],
+    "publishers": [
+      "Titus Software"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "1997-11-30T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1997-11-30T00:00:00.000Z",
+    "euroRelease": "1997-12-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581c1",
+    "title": "Automobili Lamborghini: Super Speed Race 64",
+    "otherTitles": null,
+    "developers": [
+      "Titus France"
+    ],
+    "publishers": [
+      "Taito"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "1998-05-29T00:00:00.000Z",
+    "japanRelease": "1998-05-29T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581c2",
+    "title": "Bakuretsu Muteki Bangaiō",
+    "otherTitles": null,
+    "developers": [
+      "Treasure"
+    ],
+    "publishers": [
+      "ESP"
+    ],
+    "genres": [
+      "Action",
+      "Multidirectional Shooter"
+    ],
+    "firstReleased": "1999-09-03T00:00:00.000Z",
+    "japanRelease": "1999-09-03T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581c3",
+    "title": "Bakushō Jinsei 64: Mezase! Resort Ō",
+    "otherTitles": null,
+    "developers": [
+      "Taito"
+    ],
+    "publishers": [
+      "Taito"
+    ],
+    "genres": [
+      "Party",
+      "Board Game"
+    ],
+    "firstReleased": "1998-12-24T00:00:00.000Z",
+    "japanRelease": "1998-12-24T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581c4",
+    "title": "Banjo-Kazooie",
+    "otherTitles": [
+      "Banjo to Kazooie no Daiboken"
+    ],
+    "developers": [
+      "Rare"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Action",
+      "3D Platformer"
+    ],
+    "firstReleased": "1998-06-29T00:00:00.000Z",
+    "japanRelease": "1998-12-06T00:00:00.000Z",
+    "usaRelease": "1998-06-29T00:00:00.000Z",
+    "euroRelease": "1998-07-17T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581c5",
+    "title": "Banjo-Tooie",
+    "otherTitles": [
+      "Banjo to Kazooie no Daiboken 2"
+    ],
+    "developers": [
+      "Rare"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Action",
+      "3D Platformer"
+    ],
+    "firstReleased": "2000-11-20T00:00:00.000Z",
+    "japanRelease": "2000-11-27T00:00:00.000Z",
+    "usaRelease": "2000-11-20T00:00:00.000Z",
+    "euroRelease": "2001-04-12T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581c6",
+    "title": "Bass Masters 2000",
+    "otherTitles": null,
+    "developers": [
+      "Mass Media Games"
+    ],
+    "publishers": [
+      "THQ"
+    ],
+    "genres": [
+      "Sports",
+      "Fishing"
+    ],
+    "firstReleased": "1999-12-16T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-12-16T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581c7",
+    "title": "Bass Rush ~ECOGEAR PowerWorm Championship~",
+    "otherTitles": null,
+    "developers": [
+      "Visco Corporation"
+    ],
+    "publishers": [
+      "Visco Corporation"
+    ],
+    "genres": [
+      "Sports",
+      "Fishing"
+    ],
+    "firstReleased": "2000-04-28T00:00:00.000Z",
+    "japanRelease": "2000-04-28T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581c8",
+    "title": "Batman Beyond: Return of the Joker",
+    "otherTitles": [
+      "Batman of the Future: Return of the Joker"
+    ],
+    "developers": [
+      "Kemco"
+    ],
+    "publishers": [
+      "Ubi Soft"
+    ],
+    "genres": [
+      "Action",
+      "Beat 'em up"
+    ],
+    "firstReleased": "2000-12-13T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-12-13T00:00:00.000Z",
+    "euroRelease": "2001-01-19T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581c9",
+    "title": "BattleTanx",
+    "otherTitles": null,
+    "developers": [
+      "The 3DO Company"
+    ],
+    "publishers": [
+      "The 3DO Company"
+    ],
+    "genres": [
+      "Action",
+      "Vehicular Combat"
+    ],
+    "firstReleased": "1998-12-29T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-12-29T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581ca",
+    "title": "BattleTanx: Global Assault",
+    "otherTitles": null,
+    "developers": [
+      "The 3DO Company"
+    ],
+    "publishers": [
+      "The 3DO Company"
+    ],
+    "genres": [
+      "Action",
+      "Vehicular Combat"
+    ],
+    "firstReleased": "1999-08-31T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-08-31T00:00:00.000Z",
+    "euroRelease": "2000-04-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581cb",
+    "title": "Battlezone: Rise of the Black Dogs",
+    "otherTitles": null,
+    "developers": [
+      "Climax Development"
+    ],
+    "publishers": [
+      "Crave Entertainment"
+    ],
+    "genres": [
+      "Action",
+      "Vehicular Combat"
+    ],
+    "firstReleased": "2000-03-30T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-03-30T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581cc",
+    "title": "Beetle Adventure Racing!",
+    "otherTitles": null,
+    "developers": [
+      "Paradigm Entertainment",
+      "EA Vancouver"
+    ],
+    "publishers": [
+      "Electronic Arts",
+      "Square EA"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "1999-02-28T00:00:00.000Z",
+    "japanRelease": "1999-11-26T00:00:00.000Z",
+    "usaRelease": "1999-02-28T00:00:00.000Z",
+    "euroRelease": "1999-09-04T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581cd",
+    "title": "Big Mountain 2000",
+    "otherTitles": [
+      "Snow Speeder"
+    ],
+    "developers": [
+      "Imagineer"
+    ],
+    "publishers": [
+      "SouthPeak Interactive",
+      "Xicat"
+    ],
+    "genres": [
+      "Sports",
+      "Snowboarding"
+    ],
+    "firstReleased": "1998-12-26T00:00:00.000Z",
+    "japanRelease": "1998-12-26T00:00:00.000Z",
+    "usaRelease": "2000-10-10T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581ce",
+    "title": "Bio F.R.E.A.K.S.",
+    "otherTitles": null,
+    "developers": [
+      "Saffire"
+    ],
+    "publishers": [
+      "Midway Home Entertainment",
+      "GT Interactive"
+    ],
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "firstReleased": "1998-05-31T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-05-31T00:00:00.000Z",
+    "euroRelease": "1998-09-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581cf",
+    "title": "Blast Corps",
+    "otherTitles": [
+      "Blastdozer"
+    ],
+    "developers": [
+      "Rare"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "firstReleased": "1997-03-21T00:00:00.000Z",
+    "japanRelease": "1997-03-21T00:00:00.000Z",
+    "usaRelease": "1997-03-24T00:00:00.000Z",
+    "euroRelease": "1997-12-22T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581d0",
+    "title": "Blues Brothers 2000",
+    "otherTitles": null,
+    "developers": [
+      "Player 1"
+    ],
+    "publishers": [
+      "Titus Software"
+    ],
+    "genres": [
+      "Action",
+      "3D Platformer"
+    ],
+    "firstReleased": "2000-10-13T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-11-17T00:00:00.000Z",
+    "euroRelease": "2000-10-13T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581d1",
+    "title": "Body Harvest",
+    "otherTitles": null,
+    "developers": [
+      "DMA Design"
+    ],
+    "publishers": [
+      "Gremlin Interactive",
+      "Midway Home Entertainment"
+    ],
+    "genres": [
+      "Action",
+      "Third-Person Shooter"
+    ],
+    "firstReleased": "1998-09-30T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-10-20T00:00:00.000Z",
+    "euroRelease": "1998-09-30T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581d2",
+    "title": "Bomberman 64",
+    "otherTitles": [
+      "Baku Bomberman"
+    ],
+    "developers": [
+      "Hudson Soft"
+    ],
+    "publishers": [
+      "Hudson SoftJP Nintendo"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "firstReleased": "1997-09-26T00:00:00.000Z",
+    "japanRelease": "1997-09-26T00:00:00.000Z",
+    "usaRelease": "1997-11-30T00:00:00.000Z",
+    "euroRelease": "1997-11-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581d3",
+    "title": "Bomberman 64",
+    "otherTitles": null,
+    "developers": [
+      "Racjin"
+    ],
+    "publishers": [
+      "Hudson Soft"
+    ],
+    "genres": [
+      "Action",
+      "Maze Game"
+    ],
+    "firstReleased": "2001-12-20T00:00:00.000Z",
+    "japanRelease": "2001-12-20T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581d4",
+    "title": "Bomberman 64: The Second Attack",
+    "otherTitles": [
+      "Baku Bomberman 2"
+    ],
+    "developers": [
+      "Hudson Soft"
+    ],
+    "publishers": [
+      "Hudson SoftJP Vatical Entertainment"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "firstReleased": "1999-12-03T00:00:00.000Z",
+    "japanRelease": "1999-12-03T00:00:00.000Z",
+    "usaRelease": "2000-05-28T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581d5",
+    "title": "Bomberman Hero",
+    "otherTitles": [
+      "Bomberman Hero ~Mirian-Ōjo o Sukue!~"
+    ],
+    "developers": [
+      "Hudson Soft"
+    ],
+    "publishers": [
+      "Hudson SoftJP Nintendo"
+    ],
+    "genres": [
+      "Action",
+      "3D Platformer"
+    ],
+    "firstReleased": "1998-04-30T00:00:00.000Z",
+    "japanRelease": "1998-04-30T00:00:00.000Z",
+    "usaRelease": "1998-09-01T00:00:00.000Z",
+    "euroRelease": "1998-10-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581d6",
+    "title": "Bottom of the 9th",
+    "otherTitles": null,
+    "developers": [
+      "KCE Chicago"
+    ],
+    "publishers": [
+      "Konami of America"
+    ],
+    "genres": [
+      "Sports",
+      "Baseball"
+    ],
+    "firstReleased": "1999-04-14T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-04-14T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581d7",
+    "title": "Brunswick Circuit Pro Bowling",
+    "otherTitles": null,
+    "developers": [
+      "Point of View"
+    ],
+    "publishers": [
+      "THQ"
+    ],
+    "genres": [
+      "Sports",
+      "Bowling"
+    ],
+    "firstReleased": "1999-12-23T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-12-23T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581d8",
+    "title": "Buck Bumble",
+    "otherTitles": null,
+    "developers": [
+      "Argonaut Software"
+    ],
+    "publishers": [
+      "Ubi Soft"
+    ],
+    "genres": [
+      "Action",
+      "Third-Person Shooter"
+    ],
+    "firstReleased": "1998-09-30T00:00:00.000Z",
+    "japanRelease": "1998-12-18T00:00:00.000Z",
+    "usaRelease": "1998-09-30T00:00:00.000Z",
+    "euroRelease": "1998-12-18T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581d9",
+    "title": "Bust-A-Move 2 Arcade Edition",
+    "otherTitles": null,
+    "developers": [
+      "Probe Entertainment"
+    ],
+    "publishers": [
+      "Acclaim Entertainment"
+    ],
+    "genres": [
+      "Puzzle",
+      "Tile Matching"
+    ],
+    "firstReleased": "1998-04-30T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-04-30T00:00:00.000Z",
+    "euroRelease": "1998-01-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581da",
+    "title": "Bust-A-Move 3 DX",
+    "otherTitles": [
+      "Bust-A-Move '99",
+      "Puzzle Bobble 64"
+    ],
+    "developers": [
+      "Distinctive Developments"
+    ],
+    "publishers": [
+      "Acclaim EntertainmentPAL/NA Taito"
+    ],
+    "genres": [
+      "Puzzle",
+      "Tile Matching"
+    ],
+    "firstReleased": "1998-11-01T00:00:00.000Z",
+    "japanRelease": "1999-03-05T00:00:00.000Z",
+    "usaRelease": "1999-04-30T00:00:00.000Z",
+    "euroRelease": "1998-11-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581db",
+    "title": "California Speed",
+    "otherTitles": null,
+    "developers": [
+      "Midway Games"
+    ],
+    "publishers": [
+      "Midway Home Entertainment"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "1999-02-28T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-02-28T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581dc",
+    "title": "Carmageddon 64",
+    "otherTitles": null,
+    "developers": [
+      "Software Creations"
+    ],
+    "publishers": [
+      "Sales Curve Interactive",
+      "Titus Software"
+    ],
+    "genres": [
+      "Action",
+      "Vehicular Combat"
+    ],
+    "firstReleased": "1999-10-22T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-12-05T00:00:00.000Z",
+    "euroRelease": "1999-10-22T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581dd",
+    "title": "Castlevania",
+    "otherTitles": [
+      "Akumajō Dracula Mokushiroku"
+    ],
+    "developers": [
+      "KCEK"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "firstReleased": "1999-01-26T00:00:00.000Z",
+    "japanRelease": "1999-03-11T00:00:00.000Z",
+    "usaRelease": "1999-01-26T00:00:00.000Z",
+    "euroRelease": "1999-05-14T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581de",
+    "title": "Castlevania: Legacy of Darkness",
+    "otherTitles": [
+      "Akumajō Dracula Mokushiroku Gaiden ~ Legend of Cornell"
+    ],
+    "developers": [
+      "KCEK"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "firstReleased": "1999-11-30T00:00:00.000Z",
+    "japanRelease": "1999-12-25T00:00:00.000Z",
+    "usaRelease": "1999-11-30T00:00:00.000Z",
+    "euroRelease": "2000-03-03T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581df",
+    "title": "Centre Court Tennis",
+    "otherTitles": [
+      "Let's Smash"
+    ],
+    "developers": [
+      "Hudson Soft"
+    ],
+    "publishers": [
+      "Hudson SoftJP Gaga Interactive Media"
+    ],
+    "genres": [
+      "Sports",
+      "Tennis"
+    ],
+    "firstReleased": "1998-10-09T00:00:00.000Z",
+    "japanRelease": "1998-10-09T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": "1999-01-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581e0",
+    "title": "Chameleon Twist",
+    "otherTitles": null,
+    "developers": [
+      "Japan System Supply"
+    ],
+    "publishers": [
+      "SunsoftNA/PAL Japan System Supply"
+    ],
+    "genres": [
+      "Action",
+      "3D Platformer"
+    ],
+    "firstReleased": "1997-11-30T00:00:00.000Z",
+    "japanRelease": "1997-12-12T00:00:00.000Z",
+    "usaRelease": "1997-11-30T00:00:00.000Z",
+    "euroRelease": "1997-12-06T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581e1",
+    "title": "Chameleon Twist 2",
+    "otherTitles": null,
+    "developers": [
+      "Japan System Supply"
+    ],
+    "publishers": [
+      "Japan System SupplyJP Sunsoft"
+    ],
+    "genres": [
+      "Action",
+      "3D Platformer"
+    ],
+    "firstReleased": "1998-12-25T00:00:00.000Z",
+    "japanRelease": "1998-12-25T00:00:00.000Z",
+    "usaRelease": "1999-04-14T00:00:00.000Z",
+    "euroRelease": "1999-01-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581e2",
+    "title": "Charlie Blast's Territory",
+    "otherTitles": null,
+    "developers": [
+      "Realtime Associates"
+    ],
+    "publishers": [
+      "Kemco"
+    ],
+    "genres": [
+      "Puzzle",
+      "Logic"
+    ],
+    "firstReleased": "1999-04-30T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-04-30T00:00:00.000Z",
+    "euroRelease": "1999-06-18T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581e3",
+    "title": "Chopper Attack",
+    "otherTitles": [
+      "Wild Choppers"
+    ],
+    "developers": [
+      "SETA Corporation"
+    ],
+    "publishers": [
+      "SETA Corporation",
+      "Midway Home Entertainment",
+      "GT Interactive"
+    ],
+    "genres": [
+      "Action",
+      "Vehicular Combat"
+    ],
+    "firstReleased": "1997-11-28T00:00:00.000Z",
+    "japanRelease": "1997-11-28T00:00:00.000Z",
+    "usaRelease": "1998-06-17T00:00:00.000Z",
+    "euroRelease": "1998-09-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581e4",
+    "title": "Choro Q 64 2: Hachamecha Grand Prix Race",
+    "otherTitles": null,
+    "developers": [
+      "Locomotive Corporation"
+    ],
+    "publishers": [
+      "Takara"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "1999-12-24T00:00:00.000Z",
+    "japanRelease": "1999-12-24T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581e5",
+    "title": "Chōkūkan Night: Pro Yakyū King",
+    "otherTitles": null,
+    "developers": [
+      "Genki"
+    ],
+    "publishers": [
+      "Imagineer"
+    ],
+    "genres": [
+      "Sports",
+      "Baseball"
+    ],
+    "firstReleased": "1996-12-20T00:00:00.000Z",
+    "japanRelease": "1996-12-20T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581e6",
+    "title": "Chōkūkan Night: Pro Yakyū King 2",
+    "otherTitles": null,
+    "developers": [
+      "Genki"
+    ],
+    "publishers": [
+      "Imagineer"
+    ],
+    "genres": [
+      "Sports",
+      "Baseball"
+    ],
+    "firstReleased": "1999-03-19T00:00:00.000Z",
+    "japanRelease": "1999-03-19T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581e7",
+    "title": "ClayFighter 63⅓",
+    "otherTitles": null,
+    "developers": [
+      "Interplay Productions"
+    ],
+    "publishers": [
+      "Interplay Productions"
+    ],
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "firstReleased": "1997-10-23T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1997-10-23T00:00:00.000Z",
+    "euroRelease": "1997-11-19T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581e8",
+    "title": "Clay Fighter Sculptor's Cut",
+    "otherTitles": null,
+    "developers": [
+      "Interplay Productions"
+    ],
+    "publishers": [
+      "Interplay Productions"
+    ],
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "firstReleased": "1998-05-15T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-05-15T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581e9",
+    "title": "Command & Conquer",
+    "otherTitles": null,
+    "developers": [
+      "Looking Glass Studios"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Strategy",
+      "Real-time"
+    ],
+    "firstReleased": "1999-06-29T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-06-29T00:00:00.000Z",
+    "euroRelease": "1999-07-30T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581ea",
+    "title": "Conker's Bad Fur Day",
+    "otherTitles": null,
+    "developers": [
+      "Rare"
+    ],
+    "publishers": [
+      "RareNA THQ"
+    ],
+    "genres": [
+      "Action",
+      "3D Platformer"
+    ],
+    "firstReleased": "2001-03-05T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2001-03-05T00:00:00.000Z",
+    "euroRelease": "2001-04-13T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581eb",
+    "title": "Cruis'n Exotica",
+    "otherTitles": null,
+    "developers": [
+      "Gratuitous Games"
+    ],
+    "publishers": [
+      "Midway Home Entertainment"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "2000-10-16T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-10-16T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581ec",
+    "title": "Cruis'n USA",
+    "otherTitles": null,
+    "developers": [
+      "Williams"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "1996-12-03T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1996-12-03T00:00:00.000Z",
+    "euroRelease": "1998-01-30T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581ed",
+    "title": "Cruis'n World",
+    "otherTitles": null,
+    "developers": [
+      "Eurocom"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "1998-06-25T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-09-28T00:00:00.000Z",
+    "euroRelease": "1998-06-25T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581ee",
+    "title": "Custom Robo",
+    "otherTitles": null,
+    "developers": [
+      "Noise Inc."
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Role Playing",
+      "Action"
+    ],
+    "firstReleased": "1999-12-08T00:00:00.000Z",
+    "japanRelease": "1999-12-08T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581ef",
+    "title": "Custom Robo V2",
+    "otherTitles": null,
+    "developers": [
+      "Noise Inc."
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Role Playing",
+      "Action"
+    ],
+    "firstReleased": "2000-11-10T00:00:00.000Z",
+    "japanRelease": "2000-11-10T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581f0",
+    "title": "CyberTiger",
+    "otherTitles": null,
+    "developers": [
+      "Saffire"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "genres": [
+      "Sports",
+      "Golf"
+    ],
+    "firstReleased": "2000-02-29T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-02-29T03:00:00.000Z",
+    "euroRelease": "2000-05-05T03:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581f1",
+    "title": "Dance Dance Revolution Disney Dancing Museum",
+    "otherTitles": null,
+    "developers": [
+      "KCEK"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "genres": [
+      "Rhythm",
+      "Dancing"
+    ],
+    "firstReleased": "2000-11-30T00:00:00.000Z",
+    "japanRelease": "2000-11-30T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581f2",
+    "title": "Dark Rift",
+    "otherTitles": [
+      "Space Dynamites"
+    ],
+    "developers": [
+      "Kronos Digital Entertainment"
+    ],
+    "publishers": [
+      "Vic Tokai"
+    ],
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "firstReleased": "1997-07-10T00:00:00.000Z",
+    "japanRelease": "1998-03-27T00:00:00.000Z",
+    "usaRelease": "1997-07-10T00:00:00.000Z",
+    "euroRelease": "1997-07-20T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581f3",
+    "title": "Densha de Go! 64",
+    "otherTitles": null,
+    "developers": [
+      "A.I"
+    ],
+    "publishers": [
+      "Taito"
+    ],
+    "genres": [
+      "Simulation",
+      "Train"
+    ],
+    "firstReleased": "1999-07-30T00:00:00.000Z",
+    "japanRelease": "1999-07-30T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581f4",
+    "title": "Derby Stallion 64",
+    "otherTitles": null,
+    "developers": [
+      "ParityBit"
+    ],
+    "publishers": [
+      "Media Factory"
+    ],
+    "genres": [
+      "Sports",
+      "Horse Racing"
+    ],
+    "firstReleased": "2001-08-10T00:00:00.000Z",
+    "japanRelease": "2001-08-10T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581f5",
+    "title": "Destruction Derby 64",
+    "otherTitles": null,
+    "developers": [
+      "Looking Glass Studios"
+    ],
+    "publishers": [
+      "THQ"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "1999-09-30T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-09-30T00:00:00.000Z",
+    "euroRelease": "1999-10-12T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581f6",
+    "title": "Dezaemon 3D",
+    "otherTitles": null,
+    "developers": [
+      "Athena"
+    ],
+    "publishers": [
+      "Athena"
+    ],
+    "genres": [
+      "Action",
+      "Vertical Shooter"
+    ],
+    "firstReleased": "1998-06-26T00:00:00.000Z",
+    "japanRelease": "1998-06-26T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581f7",
+    "title": "Diddy Kong Racing",
+    "otherTitles": null,
+    "developers": [
+      "Rare"
+    ],
+    "publishers": [
+      "Rare"
+    ],
+    "genres": [
+      "Racing",
+      "Kart"
+    ],
+    "firstReleased": "1997-11-21T00:00:00.000Z",
+    "japanRelease": "1997-11-21T00:00:00.000Z",
+    "usaRelease": "1997-11-24T00:00:00.000Z",
+    "euroRelease": "1997-11-21T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581f8",
+    "title": "Disney's Donald Duck: Quack Attack",
+    "otherTitles": [
+      "Disney's Donald Duck: Goin' Quackers"
+    ],
+    "developers": [
+      "Ubi Soft Casablanca"
+    ],
+    "publishers": [
+      "Ubi Soft"
+    ],
+    "genres": [
+      "Action",
+      "3D Platformer"
+    ],
+    "firstReleased": "2000-12-08T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-12-20T00:00:00.000Z",
+    "euroRelease": "2000-12-08T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581f9",
+    "title": "Disney's Tarzan",
+    "otherTitles": null,
+    "developers": [
+      "Eurocom"
+    ],
+    "publishers": [
+      "Activision"
+    ],
+    "genres": [
+      "Action",
+      "3D Platformer"
+    ],
+    "firstReleased": "2000-01-31T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-01-31T00:00:00.000Z",
+    "euroRelease": "2000-04-21T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581fa",
+    "title": "Disney/Pixar's A Bug's Life",
+    "otherTitles": null,
+    "developers": [
+      "Traveller's Tales"
+    ],
+    "publishers": [
+      "Activision"
+    ],
+    "genres": [
+      "Action",
+      "3D Platformer"
+    ],
+    "firstReleased": "1999-01-01T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-04-30T00:00:00.000Z",
+    "euroRelease": "1999-01-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581fb",
+    "title": "Disney/Pixar's Toy Story 2: Buzz Lightyear to the Rescue",
+    "otherTitles": null,
+    "developers": [
+      "Traveller's Tales"
+    ],
+    "publishers": [
+      "Activision"
+    ],
+    "genres": [
+      "Action",
+      "3D Platformer"
+    ],
+    "firstReleased": "1999-11-30T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-11-30T00:00:00.000Z",
+    "euroRelease": "2000-04-02T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581fc",
+    "title": "Donkey Kong 64",
+    "otherTitles": null,
+    "developers": [
+      "Rare"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Action",
+      "3D Platformer"
+    ],
+    "firstReleased": "1999-11-22T00:00:00.000Z",
+    "japanRelease": "1999-12-10T00:00:00.000Z",
+    "usaRelease": "1999-11-22T00:00:00.000Z",
+    "euroRelease": "1999-12-03T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581fd",
+    "title": "Doom 64",
+    "otherTitles": null,
+    "developers": [
+      "Midway Studios - San Diego"
+    ],
+    "publishers": [
+      "Midway Home Entertainment",
+      "GT Interactive"
+    ],
+    "genres": [
+      "Action",
+      "First-Person Shooter"
+    ],
+    "firstReleased": "1997-04-04T00:00:00.000Z",
+    "japanRelease": "1997-08-01T00:00:00.000Z",
+    "usaRelease": "1997-04-04T00:00:00.000Z",
+    "euroRelease": "1997-12-02T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581fe",
+    "title": "Doraemon: Nobita to Mittsu no Seireiseki",
+    "otherTitles": null,
+    "developers": [
+      "Epoch Co."
+    ],
+    "publishers": [
+      "Epoch Co."
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "firstReleased": "1997-03-21T00:00:00.000Z",
+    "japanRelease": "1997-03-21T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f581ff",
+    "title": "Doraemon 2: Nobita to Hikari no Shinden",
+    "otherTitles": null,
+    "developers": [
+      "Epoch Co."
+    ],
+    "publishers": [
+      "Epoch Co."
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "firstReleased": "1998-12-11T00:00:00.000Z",
+    "japanRelease": "1998-12-11T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58200",
+    "title": "Doraemon 3: Nobita no Machi SOS!",
+    "otherTitles": null,
+    "developers": [
+      "Epoch Co."
+    ],
+    "publishers": [
+      "Epoch Co."
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "firstReleased": "2000-07-28T00:00:00.000Z",
+    "japanRelease": "2000-07-28T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58201",
+    "title": "Dōbutsu no Mori",
+    "otherTitles": null,
+    "developers": [
+      "Nintendo EAD"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Simulation",
+      "Social Simulation"
+    ],
+    "firstReleased": "2001-04-14T00:00:00.000Z",
+    "japanRelease": "2001-04-14T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58202",
+    "title": "Dr. Mario 64",
+    "otherTitles": null,
+    "developers": [
+      "Newcom"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Puzzle",
+      "Tile Matching"
+    ],
+    "firstReleased": "2001-04-08T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2001-04-08T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58203",
+    "title": "Dual Heroes",
+    "otherTitles": null,
+    "developers": [
+      "Produce!"
+    ],
+    "publishers": [
+      "Hudson Soft",
+      "Electro Brain"
+    ],
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "firstReleased": "1997-12-05T00:00:00.000Z",
+    "japanRelease": "1997-12-05T00:00:00.000Z",
+    "usaRelease": "1998-10-31T00:00:00.000Z",
+    "euroRelease": "1998-04-12T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58204",
+    "title": "Duck Dodgers Starring Daffy Duck",
+    "otherTitles": [
+      "Daffy Duck Starring As Duck Dodgers"
+    ],
+    "developers": [
+      "Paradigm Entertainment"
+    ],
+    "publishers": [
+      "Infogrames"
+    ],
+    "genres": [
+      "Action",
+      "3D Platformer"
+    ],
+    "firstReleased": "2000-09-16T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-09-16T00:00:00.000Z",
+    "euroRelease": "2000-10-27T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58205",
+    "title": "Duke Nukem 64",
+    "otherTitles": null,
+    "developers": [
+      "3D Realms",
+      "Eurocom"
+    ],
+    "publishers": [
+      "GT Interactive"
+    ],
+    "genres": [
+      "Action",
+      "First-Person Shooter"
+    ],
+    "firstReleased": "1997-10-31T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1997-10-31T00:00:00.000Z",
+    "euroRelease": "1997-11-14T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58206",
+    "title": "Duke Nukem: Zero Hour",
+    "otherTitles": null,
+    "developers": [
+      "Eurocom"
+    ],
+    "publishers": [
+      "GT Interactive"
+    ],
+    "genres": [
+      "Action",
+      "First-Person Shooter"
+    ],
+    "firstReleased": "1997-09-01T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-09-01T00:00:00.000Z",
+    "euroRelease": "1999-09-30T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58207",
+    "title": "Earthworm Jim 3D",
+    "otherTitles": null,
+    "developers": [
+      "VIS Interactive"
+    ],
+    "publishers": [
+      "Rockstar Games",
+      "Interplay Entertainment"
+    ],
+    "genres": [
+      "Action",
+      "3D Platformer"
+    ],
+    "firstReleased": "1999-10-31T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-10-31T00:00:00.000Z",
+    "euroRelease": "1999-12-17T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58208",
+    "title": "ECW Hardcore Revolution",
+    "otherTitles": null,
+    "developers": [
+      "Acclaim Studios Salt Lake City"
+    ],
+    "publishers": [
+      "Acclaim Entertainment"
+    ],
+    "genres": [
+      "Sports",
+      "Pro Wrestling"
+    ],
+    "firstReleased": "2000-02-17T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-02-17T00:00:00.000Z",
+    "euroRelease": "2000-03-03T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58209",
+    "title": "Eiko no Saint Andrews",
+    "otherTitles": null,
+    "developers": [
+      "SETA Corporation"
+    ],
+    "publishers": [
+      "SETA Corporation"
+    ],
+    "genres": [
+      "Sports",
+      "Golf"
+    ],
+    "firstReleased": "1996-11-29T00:00:00.000Z",
+    "japanRelease": "1996-11-29T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5820a",
+    "title": "Elmo's Letter Adventure",
+    "otherTitles": null,
+    "developers": [
+      "Realtime Associates"
+    ],
+    "publishers": [
+      "NewKidCo"
+    ],
+    "genres": [
+      "Educational",
+      "Mini games"
+    ],
+    "firstReleased": "1999-11-15T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-11-15T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5820b",
+    "title": "Elmo's Number Journey",
+    "otherTitles": null,
+    "developers": [
+      "Realtime Associates"
+    ],
+    "publishers": [
+      "NewKidCo"
+    ],
+    "genres": [
+      "Educational",
+      "Mini games"
+    ],
+    "firstReleased": "1999-11-30T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-11-30T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5820c",
+    "title": "Excitebike 64",
+    "otherTitles": null,
+    "developers": [
+      "Left Field Productions"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Racing",
+      "Motorcycle"
+    ],
+    "firstReleased": "2000-04-30T00:00:00.000Z",
+    "japanRelease": "2000-06-23T00:00:00.000Z",
+    "usaRelease": "2000-04-30T00:00:00.000Z",
+    "euroRelease": "2001-06-08T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5820d",
+    "title": "Extreme-G",
+    "otherTitles": null,
+    "developers": [
+      "Probe Entertainment"
+    ],
+    "publishers": [
+      "Acclaim EntertainmentNA/PAL Acclaim Japan"
+    ],
+    "genres": [
+      "Racing",
+      "Futuristic"
+    ],
+    "firstReleased": "1997-09-30T00:00:00.000Z",
+    "japanRelease": "1998-05-29T00:00:00.000Z",
+    "usaRelease": "1997-09-30T00:00:00.000Z",
+    "euroRelease": "1997-12-09T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5820e",
+    "title": "Extreme-G 2",
+    "otherTitles": [
+      "Extreme-G2 XG2"
+    ],
+    "developers": [
+      "Probe Entertainment"
+    ],
+    "publishers": [
+      "Acclaim EntertainmentNA/PAL Acclaim Japan"
+    ],
+    "genres": [
+      "Racing",
+      "Futuristic"
+    ],
+    "firstReleased": "1998-11-17T00:00:00.000Z",
+    "japanRelease": "1999-09-10T00:00:00.000Z",
+    "usaRelease": "1998-11-17T00:00:00.000Z",
+    "euroRelease": "1998-12-04T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5820f",
+    "title": "F-1 World Grand Prix",
+    "otherTitles": null,
+    "developers": [
+      "Paradigm Entertainment Video System"
+    ],
+    "publishers": [
+      "Video System"
+    ],
+    "genres": [
+      "Racing",
+      "Grand Prix"
+    ],
+    "firstReleased": "1998-07-31T00:00:00.000Z",
+    "japanRelease": "1998-12-18T00:00:00.000Z",
+    "usaRelease": "1998-07-31T00:00:00.000Z",
+    "euroRelease": "1998-09-14T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58210",
+    "title": "F-1 World Grand Prix II",
+    "otherTitles": null,
+    "developers": [
+      "Paradigm Entertainment"
+    ],
+    "publishers": [
+      "Video System"
+    ],
+    "genres": [
+      "Racing",
+      "Grand Prix"
+    ],
+    "firstReleased": "1999-07-02T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": null,
+    "euroRelease": "1999-07-02T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58211",
+    "title": "F-Zero X",
+    "otherTitles": null,
+    "developers": [
+      "Nintendo EAD"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Racing",
+      "Futuristic"
+    ],
+    "firstReleased": "1998-07-14T00:00:00.000Z",
+    "japanRelease": "1998-07-14T00:00:00.000Z",
+    "usaRelease": "1998-10-26T00:00:00.000Z",
+    "euroRelease": "1998-11-06T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58212",
+    "title": "F1 Pole Position 64",
+    "otherTitles": [
+      "Human Grand Prix: The New Generation"
+    ],
+    "developers": [
+      "Human Entertainment"
+    ],
+    "publishers": [
+      "Human EntertainmentJP Ubi Soft"
+    ],
+    "genres": [
+      "Racing",
+      "Grand Prix"
+    ],
+    "firstReleased": "1997-03-28T00:00:00.000Z",
+    "japanRelease": "1997-03-28T00:00:00.000Z",
+    "usaRelease": "1997-09-30T00:00:00.000Z",
+    "euroRelease": "1997-10-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58213",
+    "title": "F1 Racing Championship",
+    "otherTitles": null,
+    "developers": [
+      "Ubi Soft"
+    ],
+    "publishers": [
+      "Video System"
+    ],
+    "genres": [
+      "Racing",
+      "Grand Prix"
+    ],
+    "firstReleased": "2000-12-08T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": null,
+    "euroRelease": "2000-12-08T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58214",
+    "title": "Famista 64",
+    "otherTitles": null,
+    "developers": [
+      "Namco"
+    ],
+    "publishers": [
+      "Namco"
+    ],
+    "genres": [
+      "Sports",
+      "Baseball"
+    ],
+    "firstReleased": "1997-11-28T00:00:00.000Z",
+    "japanRelease": "1997-11-28T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58215",
+    "title": "FIFA Soccer 64",
+    "otherTitles": [
+      "FIFA 64"
+    ],
+    "developers": [
+      "EA Canada"
+    ],
+    "publishers": [
+      "EA Sports"
+    ],
+    "genres": [
+      "Sports",
+      "Soccer"
+    ],
+    "firstReleased": "1997-02-28T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1997-02-28T00:00:00.000Z",
+    "euroRelease": "1997-03-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58216",
+    "title": "FIFA 99",
+    "otherTitles": null,
+    "developers": [
+      "EA Canada"
+    ],
+    "publishers": [
+      "EA Sports"
+    ],
+    "genres": [
+      "Sports",
+      "Soccer"
+    ],
+    "firstReleased": "1998-11-30T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-11-30T00:00:00.000Z",
+    "euroRelease": "1998-12-08T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58217",
+    "title": "FIFA: Road to World Cup 98",
+    "otherTitles": [
+      " FIFA: Road to World Cup 98 - World Cup e no Michi"
+    ],
+    "developers": [
+      "EA Canada"
+    ],
+    "publishers": [
+      "EA Sports",
+      "Electronic Arts Victor"
+    ],
+    "genres": [
+      "Sports",
+      "Soccer"
+    ],
+    "firstReleased": "1997-11-30T00:00:00.000Z",
+    "japanRelease": "1998-04-12T00:00:00.000Z",
+    "usaRelease": "1997-11-30T00:00:00.000Z",
+    "euroRelease": "1997-12-20T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58218",
+    "title": "Fighter Destiny 2",
+    "otherTitles": [
+      "Kakutou Denshou: F-Cup Maniax"
+    ],
+    "developers": [
+      "Genki Opus Corp"
+    ],
+    "publishers": [
+      "Imagineer",
+      "SouthPeak Interactive",
+      "Xicat"
+    ],
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "firstReleased": "1999-08-27T00:00:00.000Z",
+    "japanRelease": "1999-08-27T00:00:00.000Z",
+    "usaRelease": "2000-07-14T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58219",
+    "title": "Fighters Destiny",
+    "otherTitles": [
+      "Fighting Cup"
+    ],
+    "developers": [
+      "Genki"
+    ],
+    "publishers": [
+      "Ocean Software",
+      "Infogrames",
+      "Imagineer"
+    ],
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "firstReleased": "1998-01-31T00:00:00.000Z",
+    "japanRelease": "1998-12-11T00:00:00.000Z",
+    "usaRelease": "1998-01-31T00:00:00.000Z",
+    "euroRelease": "1998-03-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5821a",
+    "title": "Fighting Force 64",
+    "otherTitles": null,
+    "developers": [
+      "Core Design"
+    ],
+    "publishers": [
+      "Crave Entertainment"
+    ],
+    "genres": [
+      "Action",
+      "Beat 'em up"
+    ],
+    "firstReleased": "1999-04-30T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-04-30T00:00:00.000Z",
+    "euroRelease": "1999-12-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5821b",
+    "title": "Flying Dragon",
+    "otherTitles": [
+      "Hiryū no Ken Twin"
+    ],
+    "developers": [
+      "Culture Brain"
+    ],
+    "publishers": [
+      "Culture BrainJP Natsume"
+    ],
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "firstReleased": "1997-12-18T00:00:00.000Z",
+    "japanRelease": "1997-12-18T00:00:00.000Z",
+    "usaRelease": "1998-07-31T00:00:00.000Z",
+    "euroRelease": "1999-07-25T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5821c",
+    "title": "Forsaken 64",
+    "otherTitles": [
+      "Forsaken"
+    ],
+    "developers": [
+      "Iguana Entertainment UK"
+    ],
+    "publishers": [
+      "Acclaim Entertainment"
+    ],
+    "genres": [
+      "Action",
+      "First-Person Shooter"
+    ],
+    "firstReleased": "1998-04-30T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-04-30T00:00:00.000Z",
+    "euroRelease": "1998-05-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5821d",
+    "title": "Fox Sports College Hoops '99",
+    "otherTitles": null,
+    "developers": [
+      "Z-Axis"
+    ],
+    "publishers": [
+      "Fox Sports Interactive"
+    ],
+    "genres": [
+      "Sports",
+      "Basketball"
+    ],
+    "firstReleased": "1998-10-31T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-10-31T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5821e",
+    "title": "Fushigi no Dungeon: Fūrai no Shiren 2: Oni Shūrai! Shiren-jō!",
+    "otherTitles": null,
+    "developers": [
+      "Chunsoft"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Role-Playing",
+      "Roguelike"
+    ],
+    "firstReleased": "2000-09-27T00:00:00.000Z",
+    "japanRelease": "2000-09-27T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5821f",
+    "title": "''[[G.A.S.P",
+    "otherTitles": null,
+    "developers": [
+      "Fighters' NEXTream]] Deadly Arts''NA"
+    ],
+    "publishers": [
+      "KCEO"
+    ],
+    "genres": [
+      "Konami"
+    ],
+    "firstReleased": null,
+    "japanRelease": "1998-03-26T00:00:00.000Z",
+    "usaRelease": "1998-03-26T00:00:00.000Z",
+    "euroRelease": "1998-09-29T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58220",
+    "title": "Gauntlet Legends",
+    "otherTitles": null,
+    "developers": [
+      "Atari Games"
+    ],
+    "publishers": [
+      "Midway Home Entertainment",
+      "Midway Games",
+      "Epoch Co."
+    ],
+    "genres": [
+      "Role Playing",
+      "Dungeon Crawler"
+    ],
+    "firstReleased": "1999-08-31T00:00:00.000Z",
+    "japanRelease": "2000-04-07T00:00:00.000Z",
+    "usaRelease": "1999-08-31T00:00:00.000Z",
+    "euroRelease": "1999-12-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58221",
+    "title": "''[[Getter Love",
+    "otherTitles": null,
+    "developers": [
+      ": Chō Renai Party Game Tanjō]]''"
+    ],
+    "publishers": [
+      "Hudson Soft"
+    ],
+    "genres": [
+      "Hudson Soft"
+    ],
+    "firstReleased": null,
+    "japanRelease": "1999-12-04T00:00:00.000Z",
+    "usaRelease": "1998-12-04T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58222",
+    "title": "Gex 3: Deep Cover Gecko",
+    "otherTitles": [
+      "Gex: Deep Cover Gecko"
+    ],
+    "developers": [
+      "Gratuitous Games"
+    ],
+    "publishers": [
+      "Crave Entertainment"
+    ],
+    "genres": [
+      "Action",
+      "3D Platformer"
+    ],
+    "firstReleased": "1999-09-28T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-09-28T00:00:00.000Z",
+    "euroRelease": "2000-07-24T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58223",
+    "title": "Gex 64: Enter the Gecko",
+    "otherTitles": null,
+    "developers": [
+      "Realtime Associates"
+    ],
+    "publishers": [
+      "Midway Home Entertainment",
+      "GT Interactive"
+    ],
+    "genres": [
+      "Action",
+      "3D Platformer"
+    ],
+    "firstReleased": "1998-08-01T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-08-01T00:00:00.000Z",
+    "euroRelease": "1999-02-26T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58224",
+    "title": "Glover",
+    "otherTitles": null,
+    "developers": [
+      "Interactive Studios"
+    ],
+    "publishers": [
+      "Hasbro Interactive"
+    ],
+    "genres": [
+      "Action",
+      "3D Platformer"
+    ],
+    "firstReleased": "1998-11-16T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-11-16T00:00:00.000Z",
+    "euroRelease": "1998-11-24T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58225",
+    "title": "Goemon Mononoke Sugoroku",
+    "otherTitles": null,
+    "developers": [
+      "KCEK"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "genres": [
+      "Board Game",
+      "Sugoroku"
+    ],
+    "firstReleased": "1999-12-25T00:00:00.000Z",
+    "japanRelease": "1999-12-25T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58226",
+    "title": "Golden Nugget 64",
+    "otherTitles": null,
+    "developers": [
+      "Westwood Studios"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "genres": [
+      "Gambling",
+      "Casino"
+    ],
+    "firstReleased": "1998-12-01T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-12-01T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58227",
+    "title": "Goldeneye 007",
+    "otherTitles": null,
+    "developers": [
+      "Rare"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Action",
+      "First-Person Shooter"
+    ],
+    "firstReleased": "1997-08-23T00:00:00.000Z",
+    "japanRelease": "1997-08-23T00:00:00.000Z",
+    "usaRelease": "1997-08-25T00:00:00.000Z",
+    "euroRelease": "1997-08-25T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58228",
+    "title": "GT 64: Championship Edition",
+    "otherTitles": [
+      "City Tour GrandPrix: Zen Nihon GT Senshuken"
+    ],
+    "developers": [
+      "Imagineer"
+    ],
+    "publishers": [
+      "Infogrames UK",
+      "Ocean of America"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "1998-04-14T00:00:00.000Z",
+    "japanRelease": "1998-10-30T00:00:00.000Z",
+    "usaRelease": "1998-08-31T00:00:00.000Z",
+    "euroRelease": "1998-04-14T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58229",
+    "title": "Hamster Monogatari 64",
+    "otherTitles": null,
+    "developers": [
+      "Culture Brain"
+    ],
+    "publishers": [
+      "Culture Brain"
+    ],
+    "genres": [
+      "Simulation",
+      "Digital Pet"
+    ],
+    "firstReleased": "2001-04-06T00:00:00.000Z",
+    "japanRelease": "2001-04-06T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5822a",
+    "title": "Harukanaru Augusta Masters '98",
+    "otherTitles": null,
+    "developers": [
+      "T&E Soft"
+    ],
+    "publishers": [
+      "T&E Soft"
+    ],
+    "genres": [
+      "Sports",
+      "Golf"
+    ],
+    "firstReleased": "1997-12-26T00:00:00.000Z",
+    "japanRelease": "1997-12-26T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5822b",
+    "title": "Harvest Moon 64",
+    "otherTitles": [
+      "Bokujō Monogatari 2"
+    ],
+    "developers": [
+      "Victor Interactive Software"
+    ],
+    "publishers": [
+      "Pack-In-Soft",
+      "Natsume"
+    ],
+    "genres": [
+      "Simulation",
+      "Management"
+    ],
+    "firstReleased": "1999-02-05T00:00:00.000Z",
+    "japanRelease": "1999-02-05T00:00:00.000Z",
+    "usaRelease": "1999-12-22T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5822c",
+    "title": "Heiwa Pachinko World 64",
+    "otherTitles": null,
+    "developers": [
+      "Amtex"
+    ],
+    "publishers": [
+      "Shouei System"
+    ],
+    "genres": [
+      "Gambling",
+      "Pachinko"
+    ],
+    "firstReleased": "1997-11-28T00:00:00.000Z",
+    "japanRelease": "1997-11-28T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5822d",
+    "title": "Hercules: The Legendary Journeys",
+    "otherTitles": null,
+    "developers": [
+      "Player 1"
+    ],
+    "publishers": [
+      "Titus Software"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "firstReleased": "2000-10-13T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-11-16T00:00:00.000Z",
+    "euroRelease": "2000-10-13T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5822e",
+    "title": "Hexen",
+    "otherTitles": null,
+    "developers": [
+      "Software Creations"
+    ],
+    "publishers": [
+      "id Software",
+      "GT Interactive"
+    ],
+    "genres": [
+      "Action",
+      "First-Person Shooter"
+    ],
+    "firstReleased": "1998-05-31T00:00:00.000Z",
+    "japanRelease": "1997-12-18T00:00:00.000Z",
+    "usaRelease": "1997-05-31T00:00:00.000Z",
+    "euroRelease": "1997-06-24T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5822f",
+    "title": "Hey You, Pikachu!",
+    "otherTitles": [
+      "Pikachū Genki Dechū"
+    ],
+    "developers": [
+      "Ambrella"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Simulation",
+      "Digital Pet"
+    ],
+    "firstReleased": "1998-12-12T00:00:00.000Z",
+    "japanRelease": "1998-12-12T00:00:00.000Z",
+    "usaRelease": "2000-11-06T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58230",
+    "title": "Hot Wheels Turbo Racing",
+    "otherTitles": null,
+    "developers": [
+      "Stormfront Studios"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "1999-05-11T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-08-31T00:00:00.000Z",
+    "euroRelease": "1999-05-11T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58231",
+    "title": "HSV Adventure Racing",
+    "otherTitles": null,
+    "developers": [
+      "Paradigm Entertainment",
+      "EA Vancouver"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": null,
+    "japanRelease": null,
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58232",
+    "title": "Hybrid Heaven",
+    "otherTitles": null,
+    "developers": [
+      "KCEO"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "genres": [
+      "Role Playing",
+      "Action"
+    ],
+    "firstReleased": "1999-08-05T00:00:00.000Z",
+    "japanRelease": "1999-08-05T03:00:00.000Z",
+    "usaRelease": "1999-08-31T03:00:00.000Z",
+    "euroRelease": "1999-09-24T03:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58233",
+    "title": "Hydro Thunder",
+    "otherTitles": null,
+    "developers": [
+      "Eurocom"
+    ],
+    "publishers": [
+      "Midway Home Entertainment",
+      "Midway Games"
+    ],
+    "genres": [
+      "Racing",
+      "Motorboat"
+    ],
+    "firstReleased": "2000-02-29T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-02-29T00:00:00.000Z",
+    "euroRelease": "2000-05-14T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58234",
+    "title": "Ide Yosuke no Mahjong Juku",
+    "otherTitles": null,
+    "developers": [
+      "SETA Corporation"
+    ],
+    "publishers": [
+      "SETA Corporation"
+    ],
+    "genres": [
+      "Gambling",
+      "Mahjong"
+    ],
+    "firstReleased": "2000-04-21T00:00:00.000Z",
+    "japanRelease": "2000-04-21T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58235",
+    "title": "Iggy's Reckin' Balls",
+    "otherTitles": [
+      "Iggy-kun no Bura Bura Poyon"
+    ],
+    "developers": [
+      "Iguana Entertainment"
+    ],
+    "publishers": [
+      "Acclaim EntertainmentNA/PAL Acclaim Japan"
+    ],
+    "genres": [
+      "Racing",
+      "Arcade"
+    ],
+    "firstReleased": "1998-07-31T00:00:00.000Z",
+    "japanRelease": "1998-08-28T00:00:00.000Z",
+    "usaRelease": "1998-07-31T00:00:00.000Z",
+    "euroRelease": "1998-08-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58236",
+    "title": "In-Fisherman Bass Hunter 64",
+    "otherTitles": [
+      "Bass Hunter 64"
+    ],
+    "developers": [
+      "Gearhead Entertainment"
+    ],
+    "publishers": [
+      "Take-Two Interactive"
+    ],
+    "genres": [
+      "Sports",
+      "Fishing"
+    ],
+    "firstReleased": "1999-07-30T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-07-30T00:00:00.000Z",
+    "euroRelease": "1999-10-22T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58237",
+    "title": "Indiana Jones and the Infernal Machine",
+    "otherTitles": null,
+    "developers": [
+      "Factor 5",
+      "LucasArts"
+    ],
+    "publishers": [
+      "LucasArts"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "firstReleased": "2000-12-15T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-12-15T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58238",
+    "title": "Indy Racing 2000",
+    "otherTitles": null,
+    "developers": [
+      "Paradigm Entertainment"
+    ],
+    "publishers": [
+      "Infogrames"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "2000-06-09T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-06-09T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58239",
+    "title": "International Superstar Soccer '98",
+    "otherTitles": [
+      "Jikkyō World Soccer: World Cup France '98"
+    ],
+    "developers": [
+      "KCEO"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "genres": [
+      "Sports",
+      "Soccer"
+    ],
+    "firstReleased": "1998-06-04T00:00:00.000Z",
+    "japanRelease": "1998-06-04T00:00:00.000Z",
+    "usaRelease": "1998-09-15T00:00:00.000Z",
+    "euroRelease": "1998-09-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5823a",
+    "title": "International Superstar Soccer 2000",
+    "otherTitles": [
+      "Jikkyō J-League 1999: Perfect Striker 2"
+    ],
+    "developers": [
+      "KCEO"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "genres": [
+      "Sports",
+      "Soccer"
+    ],
+    "firstReleased": "1999-07-29T00:00:00.000Z",
+    "japanRelease": "1999-07-29T00:00:00.000Z",
+    "usaRelease": "2000-08-03T00:00:00.000Z",
+    "euroRelease": "2000-09-29T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5823b",
+    "title": "International Superstar Soccer 64",
+    "otherTitles": [
+      "Jikkyō J-League Perfect Striker"
+    ],
+    "developers": [
+      "KCEO"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "genres": [
+      "Sports",
+      "Soccer"
+    ],
+    "firstReleased": "1996-12-20T00:00:00.000Z",
+    "japanRelease": "1996-12-20T00:00:00.000Z",
+    "usaRelease": "1997-07-31T00:00:00.000Z",
+    "euroRelease": "1997-06-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5823c",
+    "title": "International Track & Field: Summer Games",
+    "otherTitles": [
+      "International Track & Field 2000",
+      "Ganbare! Nippon! Olympics 2000 "
+    ],
+    "developers": [
+      "KCEO"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "genres": [
+      "Sports",
+      "Track and Field"
+    ],
+    "firstReleased": "2000-06-01T00:00:00.000Z",
+    "japanRelease": "2000-07-13T00:00:00.000Z",
+    "usaRelease": "2000-06-01T00:00:00.000Z",
+    "euroRelease": "2000-09-06T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5823d",
+    "title": "Itoi Shigesato no Bass Tsuri No. 1 Kettehan!",
+    "otherTitles": null,
+    "developers": [
+      "HAL Laboratory"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Sports",
+      "Fishing"
+    ],
+    "firstReleased": "2000-03-31T00:00:00.000Z",
+    "japanRelease": "2000-03-31T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5823e",
+    "title": "J-League Dynamite Soccer 64",
+    "otherTitles": null,
+    "developers": [
+      "A-Max"
+    ],
+    "publishers": [
+      "Imagineer"
+    ],
+    "genres": [
+      "Sports",
+      "Soccer"
+    ],
+    "firstReleased": "1997-09-05T00:00:00.000Z",
+    "japanRelease": "1997-09-05T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5823f",
+    "title": "J-League Eleven Beat 1997",
+    "otherTitles": null,
+    "developers": [
+      "Hudson Soft"
+    ],
+    "publishers": [
+      "Hudson Soft"
+    ],
+    "genres": [
+      "Sports",
+      "Soccer"
+    ],
+    "firstReleased": "1997-10-24T00:00:00.000Z",
+    "japanRelease": "1997-10-24T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58240",
+    "title": "J. League Live 64",
+    "otherTitles": null,
+    "developers": [
+      "Electronic Arts Victor"
+    ],
+    "publishers": [
+      "Electronic Arts Victor"
+    ],
+    "genres": [
+      "Sports",
+      "Soccer"
+    ],
+    "firstReleased": "1997-03-28T00:00:00.000Z",
+    "japanRelease": "1997-03-28T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58241",
+    "title": "J-League Tactics Soccer",
+    "otherTitles": null,
+    "developers": [
+      "ASCII Entertainment"
+    ],
+    "publishers": [
+      "ASCII Entertainment"
+    ],
+    "genres": [
+      "Sports",
+      "Soccer"
+    ],
+    "firstReleased": "1999-01-15T00:00:00.000Z",
+    "japanRelease": "1999-01-15T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58242",
+    "title": "Jango Simulation Mahjong-do 64",
+    "otherTitles": null,
+    "developers": [
+      "Art"
+    ],
+    "publishers": [
+      "Video System"
+    ],
+    "genres": [
+      "Gambling",
+      "Mahjong"
+    ],
+    "firstReleased": "1997-07-25T00:00:00.000Z",
+    "japanRelease": "1997-07-25T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58243",
+    "title": "Jeopardy!",
+    "otherTitles": null,
+    "developers": [
+      "GameTek"
+    ],
+    "publishers": [
+      "GameTek"
+    ],
+    "genres": [
+      "Trivia",
+      "Game Show"
+    ],
+    "firstReleased": "1998-02-25T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-02-25T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58244",
+    "title": "Jeremy McGrath Supercross 2000",
+    "otherTitles": null,
+    "developers": [
+      "Acclaim Studios Salt Lake City"
+    ],
+    "publishers": [
+      "Acclaim Sports"
+    ],
+    "genres": [
+      "Racing",
+      "Motorcycle"
+    ],
+    "firstReleased": "2000-02-28T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-02-28T00:00:00.000Z",
+    "euroRelease": "2000-09-19T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58245",
+    "title": "Jet Force Gemini",
+    "otherTitles": [
+      "Star Twins"
+    ],
+    "developers": [
+      "Rare"
+    ],
+    "publishers": [
+      "Rare"
+    ],
+    "genres": [
+      "Action",
+      "Third-Person Shooter"
+    ],
+    "firstReleased": "1999-10-11T00:00:00.000Z",
+    "japanRelease": "1999-12-01T00:00:00.000Z",
+    "usaRelease": "1999-10-11T00:00:00.000Z",
+    "euroRelease": "1999-10-29T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58246",
+    "title": "Jikkyō GI Stable",
+    "otherTitles": null,
+    "developers": [
+      "KCEN"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "genres": [
+      "Sports",
+      "Horse Racing"
+    ],
+    "firstReleased": "1999-04-28T00:00:00.000Z",
+    "japanRelease": "1999-04-28T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58247",
+    "title": "Jikkyō Powerful Pro Yakyu 2000",
+    "otherTitles": null,
+    "developers": [
+      "KCEO"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "genres": [
+      "Sports",
+      "Baseball"
+    ],
+    "firstReleased": "2000-04-29T00:00:00.000Z",
+    "japanRelease": "2000-04-29T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58248",
+    "title": "Jikkyō Powerful Pro Yakyu 4",
+    "otherTitles": null,
+    "developers": [
+      "KCEO"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "genres": [
+      "Sports",
+      "Baseball"
+    ],
+    "firstReleased": "1997-03-14T00:00:00.000Z",
+    "japanRelease": "1997-03-14T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58249",
+    "title": "Jikkyō Powerful Pro Yakyu 5",
+    "otherTitles": null,
+    "developers": [
+      "KCEO"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "genres": [
+      "Sports",
+      "Baseball"
+    ],
+    "firstReleased": "1998-03-26T00:00:00.000Z",
+    "japanRelease": "1998-03-26T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5824a",
+    "title": "Jikkyō Powerful Pro Yakyu 6",
+    "otherTitles": null,
+    "developers": [
+      "KCEO"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "genres": [
+      "Sports",
+      "Baseball"
+    ],
+    "firstReleased": "1999-03-25T00:00:00.000Z",
+    "japanRelease": "1999-03-25T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5824b",
+    "title": "Jikkyō Powerful Pro Yakyu Basic-ban 2001",
+    "otherTitles": null,
+    "developers": [
+      "KCEO"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "genres": [
+      "Sports",
+      "Baseball"
+    ],
+    "firstReleased": "2001-03-29T00:00:00.000Z",
+    "japanRelease": "2001-03-29T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5824c",
+    "title": "Jikkyō World Soccer 3",
+    "otherTitles": null,
+    "developers": [
+      "KCEO"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "genres": [
+      "Sports",
+      "Soccer"
+    ],
+    "firstReleased": "1997-09-18T00:00:00.000Z",
+    "japanRelease": "1997-09-18T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5824d",
+    "title": "Jinsei Game 64",
+    "otherTitles": null,
+    "developers": [
+      "Takara"
+    ],
+    "publishers": [
+      "Takara"
+    ],
+    "genres": [
+      "Party",
+      "Board Game"
+    ],
+    "firstReleased": "1999-03-19T00:00:00.000Z",
+    "japanRelease": "1999-03-19T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5824e",
+    "title": "John Romero's Daikatana",
+    "otherTitles": null,
+    "developers": [
+      "Kemco"
+    ],
+    "publishers": [
+      "Kemco"
+    ],
+    "genres": [
+      "Action",
+      "First-Person Shooter"
+    ],
+    "firstReleased": "2000-04-07T00:00:00.000Z",
+    "japanRelease": "2000-04-07T00:00:00.000Z",
+    "usaRelease": "2000-07-31T00:00:00.000Z",
+    "euroRelease": "2000-05-26T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5824f",
+    "title": "Ken Griffey Jr.'s Slugfest",
+    "otherTitles": null,
+    "developers": [
+      "Angel Studios"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Sports",
+      "Baseball"
+    ],
+    "firstReleased": "1999-05-10T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-05-10T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58250",
+    "title": "Killer Instinct Gold",
+    "otherTitles": null,
+    "developers": [
+      "Rare"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "firstReleased": "1996-11-25T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1996-11-25T00:00:00.000Z",
+    "euroRelease": "1997-07-04T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58251",
+    "title": "Kira tto Kaiketsu! 64 Tanteidan",
+    "otherTitles": null,
+    "developers": [
+      "Pandora Box"
+    ],
+    "publishers": [
+      "Imagineer"
+    ],
+    "genres": [
+      "Party",
+      "Board Game"
+    ],
+    "firstReleased": "1998-10-23T00:00:00.000Z",
+    "japanRelease": "1998-10-23T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58252",
+    "title": "Kirby 64: The Crystal Shards",
+    "otherTitles": [
+      "Hoshi no Kirby 64"
+    ],
+    "developers": [
+      "HAL Laboratory"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Action",
+      "2D Platformer"
+    ],
+    "firstReleased": "2000-03-24T00:00:00.000Z",
+    "japanRelease": "2000-03-24T00:00:00.000Z",
+    "usaRelease": "2000-06-26T00:00:00.000Z",
+    "euroRelease": "2001-06-22T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58253",
+    "title": "Knife Edge: Nose Gunner",
+    "otherTitles": [
+      "Knife Edge"
+    ],
+    "developers": [
+      "Kemco"
+    ],
+    "publishers": [
+      "Kemco"
+    ],
+    "genres": [
+      "Action",
+      "3D Rail Shooter"
+    ],
+    "firstReleased": "1998-11-10T00:00:00.000Z",
+    "japanRelease": "1998-11-27T00:00:00.000Z",
+    "usaRelease": "1998-11-10T00:00:00.000Z",
+    "euroRelease": "1998-01-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58254",
+    "title": "Knockout Kings 2000",
+    "otherTitles": [
+      "Box Champions 2000"
+    ],
+    "developers": [
+      "Black Ops Entertainment"
+    ],
+    "publishers": [
+      "EA Sports"
+    ],
+    "genres": [
+      "Sports",
+      "Boxing"
+    ],
+    "firstReleased": "1999-10-03T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-10-03T00:00:00.000Z",
+    "euroRelease": "1999-10-10T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58255",
+    "title": "Kobe Bryant in NBA Courtside",
+    "otherTitles": null,
+    "developers": [
+      "Left Field Productions"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Sports",
+      "Basketball"
+    ],
+    "firstReleased": "1998-04-27T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-04-27T03:00:00.000Z",
+    "euroRelease": "1998-06-10T03:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58256",
+    "title": "Last Legion UX",
+    "otherTitles": null,
+    "developers": [
+      "Yuke's"
+    ],
+    "publishers": [
+      "Hudson Soft"
+    ],
+    "genres": [
+      "Action",
+      "Third-Person Shooter"
+    ],
+    "firstReleased": "1999-05-28T00:00:00.000Z",
+    "japanRelease": "1999-05-28T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58257",
+    "title": "The Legend of Zelda: Majora's Mask",
+    "otherTitles": null,
+    "developers": [
+      "Nintendo EAD"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "firstReleased": "2000-04-27T00:00:00.000Z",
+    "japanRelease": "2000-04-27T00:00:00.000Z",
+    "usaRelease": "2000-10-26T00:00:00.000Z",
+    "euroRelease": "2000-11-17T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58258",
+    "title": "The Legend of Zelda: Ocarina of Time",
+    "otherTitles": null,
+    "developers": [
+      "Nintendo EAD"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "firstReleased": "1998-11-21T00:00:00.000Z",
+    "japanRelease": "1998-11-21T00:00:00.000Z",
+    "usaRelease": "1998-11-23T00:00:00.000Z",
+    "euroRelease": "1998-12-11T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58259",
+    "title": "Lego Racers",
+    "otherTitles": null,
+    "developers": [
+      "High Voltage Software"
+    ],
+    "publishers": [
+      "Lego Media"
+    ],
+    "genres": [
+      "Racing",
+      "Arcade"
+    ],
+    "firstReleased": "1999-10-12T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-10-12T00:00:00.000Z",
+    "euroRelease": "1999-10-31T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5825a",
+    "title": "Lode Runner 3-D",
+    "otherTitles": null,
+    "developers": [
+      "Big Bang"
+    ],
+    "publishers": [
+      "Infogrames",
+      "Banpresto"
+    ],
+    "genres": [
+      "Puzzle",
+      "Action"
+    ],
+    "firstReleased": "1999-03-26T00:00:00.000Z",
+    "japanRelease": "1999-07-30T00:00:00.000Z",
+    "usaRelease": "1999-03-26T00:00:00.000Z",
+    "euroRelease": "1999-01-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5825b",
+    "title": "Mace: The Dark Age",
+    "otherTitles": null,
+    "developers": [
+      "Midway Games"
+    ],
+    "publishers": [
+      "Midway Home Entertainment",
+      "GT Interactive"
+    ],
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "firstReleased": "1997-10-01T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1997-10-01T00:00:00.000Z",
+    "euroRelease": "1997-12-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5825c",
+    "title": "Madden Football 64",
+    "otherTitles": null,
+    "developers": [
+      "Tiburon Entertainment"
+    ],
+    "publishers": [
+      "EA Sports"
+    ],
+    "genres": [
+      "Sports",
+      "American Football"
+    ],
+    "firstReleased": "1997-10-31T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1997-10-31T00:00:00.000Z",
+    "euroRelease": "1997-12-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5825d",
+    "title": "Madden NFL 2000",
+    "otherTitles": null,
+    "developers": [
+      "EA Tiburon"
+    ],
+    "publishers": [
+      "EA Sports"
+    ],
+    "genres": [
+      "Sports",
+      "American Football"
+    ],
+    "firstReleased": "1999-08-31T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-08-31T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5825e",
+    "title": "Madden NFL 2001",
+    "otherTitles": null,
+    "developers": [
+      "EA Tiburon"
+    ],
+    "publishers": [
+      "EA Sports"
+    ],
+    "genres": [
+      "Sports",
+      "American Football"
+    ],
+    "firstReleased": "2000-08-28T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-08-28T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5825f",
+    "title": "Madden NFL 2002",
+    "otherTitles": null,
+    "developers": [
+      "Budcat Creations"
+    ],
+    "publishers": [
+      "EA Sports"
+    ],
+    "genres": [
+      "Sports",
+      "American Football"
+    ],
+    "firstReleased": "2001-09-12T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2001-09-12T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58260",
+    "title": "Madden NFL 99",
+    "otherTitles": null,
+    "developers": [
+      "EA Tiburon"
+    ],
+    "publishers": [
+      "EA Sports"
+    ],
+    "genres": [
+      "Sports",
+      "American Football"
+    ],
+    "firstReleased": "1998-11-01T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-11-01T00:00:00.000Z",
+    "euroRelease": "1999-01-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58261",
+    "title": "Magical Tetris Challenge",
+    "otherTitles": [
+      "Magical Tetris Challenge Featuring Mickey"
+    ],
+    "developers": [
+      "Capcom"
+    ],
+    "publishers": [
+      "CapcomJP/NAActivision"
+    ],
+    "genres": [
+      "Puzzle",
+      "Stacking"
+    ],
+    "firstReleased": "1998-11-20T00:00:00.000Z",
+    "japanRelease": "1998-11-20T00:00:00.000Z",
+    "usaRelease": "1999-01-14T00:00:00.000Z",
+    "euroRelease": "1999-09-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58262",
+    "title": "Mahjong 64",
+    "otherTitles": null,
+    "developers": [
+      "Chat Noir"
+    ],
+    "publishers": [
+      "Koei"
+    ],
+    "genres": [
+      "Gambling",
+      "Mahjong"
+    ],
+    "firstReleased": "1997-04-04T00:00:00.000Z",
+    "japanRelease": "1997-04-04T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58263",
+    "title": "Mahjong Horoki Classic",
+    "otherTitles": null,
+    "developers": [
+      "Alpha Unit"
+    ],
+    "publishers": [
+      "Imagineer"
+    ],
+    "genres": [
+      "Gambling",
+      "Mahjong"
+    ],
+    "firstReleased": "1997-08-01T00:00:00.000Z",
+    "japanRelease": "1997-08-01T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58264",
+    "title": "Mahjong Master",
+    "otherTitles": null,
+    "developers": [
+      "KCEO"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "genres": [
+      "Gambling",
+      "Mahjong"
+    ],
+    "firstReleased": "1996-12-20T00:00:00.000Z",
+    "japanRelease": "1996-12-20T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58265",
+    "title": "Major League Baseball Featuring Ken Griffey, Jr.",
+    "otherTitles": null,
+    "developers": [
+      "Angel Studios"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Sports",
+      "Baseball"
+    ],
+    "firstReleased": "1998-05-31T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-05-31T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58266",
+    "title": "Mario Golf",
+    "otherTitles": [
+      "Mario Golf 64"
+    ],
+    "developers": [
+      "Camelot"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Sports",
+      "Golf"
+    ],
+    "firstReleased": "1999-06-11T00:00:00.000Z",
+    "japanRelease": "1999-06-11T00:00:00.000Z",
+    "usaRelease": "1999-07-26T00:00:00.000Z",
+    "euroRelease": "1999-09-14T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58267",
+    "title": "Mario Kart 64",
+    "otherTitles": null,
+    "developers": [
+      "Nintendo EAD"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Racing",
+      "Kart"
+    ],
+    "firstReleased": "1996-12-14T00:00:00.000Z",
+    "japanRelease": "1996-12-14T00:00:00.000Z",
+    "usaRelease": "1997-02-10T00:00:00.000Z",
+    "euroRelease": "1997-06-24T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58268",
+    "title": "Mario no Photopi",
+    "otherTitles": null,
+    "developers": [
+      "Fujifilm",
+      "Nintendo",
+      "Tokyo Electron"
+    ],
+    "publishers": [
+      "Tokyo Electron"
+    ],
+    "genres": [
+      "Creativity",
+      "Photography"
+    ],
+    "firstReleased": "1998-12-02T00:00:00.000Z",
+    "japanRelease": "1998-12-02T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58269",
+    "title": "Mario Party",
+    "otherTitles": null,
+    "developers": [
+      "Hudson Soft"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Party",
+      "Board Game"
+    ],
+    "firstReleased": "1998-12-18T00:00:00.000Z",
+    "japanRelease": "1998-12-18T00:00:00.000Z",
+    "usaRelease": "1999-02-08T00:00:00.000Z",
+    "euroRelease": "1999-03-09T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5826a",
+    "title": "Mario Party 2",
+    "otherTitles": null,
+    "developers": [
+      "Hudson Soft"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Party",
+      "Board Game"
+    ],
+    "firstReleased": "1999-12-17T00:00:00.000Z",
+    "japanRelease": "1999-12-17T00:00:00.000Z",
+    "usaRelease": "2000-02-24T00:00:00.000Z",
+    "euroRelease": "2000-10-12T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5826b",
+    "title": "Mario Party 3",
+    "otherTitles": null,
+    "developers": [
+      "Hudson Soft"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Party",
+      "Board Game"
+    ],
+    "firstReleased": "2000-12-07T00:00:00.000Z",
+    "japanRelease": "2000-12-07T00:00:00.000Z",
+    "usaRelease": "2001-05-07T00:00:00.000Z",
+    "euroRelease": "2001-11-16T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5826c",
+    "title": "Mario Tennis",
+    "otherTitles": [
+      "Mario Tennis 64"
+    ],
+    "developers": [
+      "Camelot"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Sports",
+      "Tennis"
+    ],
+    "firstReleased": "2000-07-21T00:00:00.000Z",
+    "japanRelease": "2000-07-21T00:00:00.000Z",
+    "usaRelease": "2000-08-28T00:00:00.000Z",
+    "euroRelease": "2000-11-03T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5826d",
+    "title": "Mega Man 64",
+    "otherTitles": [
+      "RockMan Dash: Hagane no Boukenshin"
+    ],
+    "developers": [
+      "Capcom Production Studio 2"
+    ],
+    "publishers": [
+      "Capcom"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "firstReleased": "2000-11-22T00:00:00.000Z",
+    "japanRelease": "2000-11-22T00:00:00.000Z",
+    "usaRelease": "2001-01-10T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5826e",
+    "title": "Mia Hamm Soccer 64",
+    "otherTitles": null,
+    "developers": [
+      "Silicon Dreams Studio",
+      "DC Studios"
+    ],
+    "publishers": [
+      "SouthPeak Interactive"
+    ],
+    "genres": [
+      "Sports",
+      "Soccer"
+    ],
+    "firstReleased": "2000-11-09T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-11-09T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5826f",
+    "title": "Michael Owen's WLS 2000",
+    "otherTitles": [
+      "RTL World League Soccer 2000",
+      "Telefoot Soccer 2000"
+    ],
+    "developers": [
+      "Silicon Dreams Studio"
+    ],
+    "publishers": [
+      "THQ"
+    ],
+    "genres": [
+      "Sports",
+      "Soccer"
+    ],
+    "firstReleased": "2000-11-10T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": null,
+    "euroRelease": "2000-11-10T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58270",
+    "title": "Mickey's Speedway USA",
+    "otherTitles": [
+      "Mickey no Racing Challenge USA"
+    ],
+    "developers": [
+      "Rare"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Racing",
+      "Kart"
+    ],
+    "firstReleased": "2000-11-13T00:00:00.000Z",
+    "japanRelease": "2001-01-21T00:00:00.000Z",
+    "usaRelease": "2000-11-13T00:00:00.000Z",
+    "euroRelease": "2000-12-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58271",
+    "title": "Micro Machines 64 Turbo",
+    "otherTitles": null,
+    "developers": [
+      "Codemasters"
+    ],
+    "publishers": [
+      "Midway Home EntertainmentNA Codemasters"
+    ],
+    "genres": [
+      "Racing",
+      "Arcade"
+    ],
+    "firstReleased": "1999-03-24T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-03-24T00:00:00.000Z",
+    "euroRelease": "1999-04-30T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58272",
+    "title": "Midway's Greatest Arcade Hits: Volume 1",
+    "otherTitles": null,
+    "developers": [
+      "Digital Eclipse"
+    ],
+    "publishers": [
+      "Midway Home Entertainment"
+    ],
+    "genres": [
+      "Action",
+      "Arcade Compilation"
+    ],
+    "firstReleased": "2000-11-14T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-11-14T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58273",
+    "title": "Mike Piazza's Strike Zone",
+    "otherTitles": null,
+    "developers": [
+      "Devil's Thumb Entertainment"
+    ],
+    "publishers": [
+      "GT Interactive"
+    ],
+    "genres": [
+      "Sports",
+      "Baseball"
+    ],
+    "firstReleased": "1998-06-16T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-06-16T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58274",
+    "title": "Milo's Astro Lanes",
+    "otherTitles": null,
+    "developers": [
+      "Player 1"
+    ],
+    "publishers": [
+      "Crave Entertainment"
+    ],
+    "genres": [
+      "Sports",
+      "Bowling"
+    ],
+    "firstReleased": "1998-11-24T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-11-24T00:00:00.000Z",
+    "euroRelease": "1999-07-25T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58275",
+    "title": "Mischief Makers",
+    "otherTitles": null,
+    "developers": [
+      "Trouble Makers'' JP"
+    ],
+    "publishers": [
+      "Treasure"
+    ],
+    "genres": [
+      "EnixJP NintendoNA",
+      "PAL"
+    ],
+    "firstReleased": null,
+    "japanRelease": "1997-06-27T00:00:00.000Z",
+    "usaRelease": "1997-06-27T00:00:00.000Z",
+    "euroRelease": "1997-10-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58276",
+    "title": "Mission Impossible",
+    "otherTitles": null,
+    "developers": [
+      "Infogrames"
+    ],
+    "publishers": [
+      "Ocean_SoftwareNA Infogrames"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "firstReleased": "1998-07-18T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-07-18T00:00:00.000Z",
+    "euroRelease": "1998-09-25T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58277",
+    "title": "Monopoly",
+    "otherTitles": null,
+    "developers": [
+      "Mind's Eye Productions"
+    ],
+    "publishers": [
+      "Hasbro Interactive"
+    ],
+    "genres": [
+      "Traditional",
+      "Monopoly"
+    ],
+    "firstReleased": "1999-12-18T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-12-18T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58278",
+    "title": "Monster Truck Madness 64",
+    "otherTitles": null,
+    "developers": [
+      "Edge of Reality"
+    ],
+    "publishers": [
+      "Edge of Reality",
+      "Rockstar Games"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "1999-06-30T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-06-30T00:00:00.000Z",
+    "euroRelease": "1999-10-29T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58279",
+    "title": "Morita Shogi 64",
+    "otherTitles": null,
+    "developers": [
+      "SETA Corporation"
+    ],
+    "publishers": [
+      "SETA Corporation"
+    ],
+    "genres": [
+      "Traditional",
+      "Shogi"
+    ],
+    "firstReleased": "1998-04-03T00:00:00.000Z",
+    "japanRelease": "1998-04-03T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5827a",
+    "title": "Mortal Kombat 4",
+    "otherTitles": null,
+    "developers": [
+      "Eurocom"
+    ],
+    "publishers": [
+      "Midway Home Entertainment",
+      "GT Interactive"
+    ],
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "firstReleased": "1998-06-23T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-06-23T00:00:00.000Z",
+    "euroRelease": "1998-09-15T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5827b",
+    "title": "Mortal Kombat Mythologies: Sub-Zero",
+    "otherTitles": null,
+    "developers": [
+      "Avalanche Software"
+    ],
+    "publishers": [
+      "Midway Home Entertainment",
+      "GT Interactive"
+    ],
+    "genres": [
+      "Action",
+      "Beat 'em up"
+    ],
+    "firstReleased": "1997-12-08T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1997-12-08T00:00:00.000Z",
+    "euroRelease": "1998-02-12T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5827c",
+    "title": "Mortal Kombat Trilogy",
+    "otherTitles": null,
+    "developers": [
+      "Midway Games"
+    ],
+    "publishers": [
+      "Williams",
+      "GT Interactive"
+    ],
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "firstReleased": "1996-11-11T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1996-11-11T00:00:00.000Z",
+    "euroRelease": "1997-03-14T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5827d",
+    "title": "MRC: Multi-Racing Championship",
+    "otherTitles": [
+      " Multi-Racing Championship"
+    ],
+    "developers": [
+      "Genki"
+    ],
+    "publishers": [
+      "Imagineer",
+      "Ocean Software"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "1997-07-18T00:00:00.000Z",
+    "japanRelease": "1997-07-18T00:00:00.000Z",
+    "usaRelease": "1997-08-31T00:00:00.000Z",
+    "euroRelease": "1997-10-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5827e",
+    "title": "Ms. Pac-Man Maze Madness",
+    "otherTitles": null,
+    "developers": [
+      "Mass Media Games"
+    ],
+    "publishers": [
+      "Namco"
+    ],
+    "genres": [
+      "Action",
+      "Maze Game"
+    ],
+    "firstReleased": "2000-11-12T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-11-12T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5827f",
+    "title": "Mystical Ninja Starring Goemon",
+    "otherTitles": [
+      "Ganbare Goemon: Neo Momoyama Bakufu no Odori"
+    ],
+    "developers": [
+      "KCEO"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "firstReleased": "1997-08-07T00:00:00.000Z",
+    "japanRelease": "1997-08-07T00:00:00.000Z",
+    "usaRelease": "1998-04-16T00:00:00.000Z",
+    "euroRelease": "1998-04-18T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58280",
+    "title": "Mystical Ninja 2 Starring Goemon",
+    "otherTitles": [
+      "Goemon's Great Adventure",
+      "Ganbare Goemon Derodero Dōchū Obake Tenko Mori"
+    ],
+    "developers": [
+      "KCEO"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "genres": [
+      "Action",
+      "2D Platformer"
+    ],
+    "firstReleased": "1998-12-23T00:00:00.000Z",
+    "japanRelease": "1998-12-23T00:00:00.000Z",
+    "usaRelease": "1999-09-15T00:00:00.000Z",
+    "euroRelease": "1999-06-18T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58281",
+    "title": "Nagano Winter Olympics '98",
+    "otherTitles": [
+      "Hyper Olympics in Nagano"
+    ],
+    "developers": [
+      "KCEO"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "genres": [
+      "Sports",
+      "Winter Sports"
+    ],
+    "firstReleased": "1997-12-18T00:00:00.000Z",
+    "japanRelease": "1997-12-18T00:00:00.000Z",
+    "usaRelease": "1998-01-10T00:00:00.000Z",
+    "euroRelease": "1998-02-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58282",
+    "title": "Namco Museum 64",
+    "otherTitles": null,
+    "developers": [
+      "Mass Media Games"
+    ],
+    "publishers": [
+      "Namco"
+    ],
+    "genres": [
+      "Action",
+      "Arcade Compilation"
+    ],
+    "firstReleased": "1999-12-31T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-12-31T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58283",
+    "title": "NASCAR '99",
+    "otherTitles": null,
+    "developers": [
+      "EA Sports",
+      "Stormfront Studios"
+    ],
+    "publishers": [
+      "EA Sports"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "1998-09-11T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-09-11T00:00:00.000Z",
+    "euroRelease": "1998-11-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58284",
+    "title": "NASCAR 2000",
+    "otherTitles": null,
+    "developers": [
+      "EA Sports",
+      "Stormfront Studios"
+    ],
+    "publishers": [
+      "EA Sports"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "1999-10-02T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-10-02T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58285",
+    "title": "NBA Courtside 2: Featuring Kobe Bryant",
+    "otherTitles": null,
+    "developers": [
+      "Left Field Productions"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Sports",
+      "Basketball"
+    ],
+    "firstReleased": "1999-11-08T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-11-08T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58286",
+    "title": "NBA Hangtime",
+    "otherTitles": null,
+    "developers": [
+      "Funcom"
+    ],
+    "publishers": [
+      "Midway Home Entertainment",
+      "GT Interactive"
+    ],
+    "genres": [
+      "Sports",
+      "Basketball"
+    ],
+    "firstReleased": "1997-01-17T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1997-01-17T00:00:00.000Z",
+    "euroRelease": "1997-09-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58287",
+    "title": "NBA In The Zone '98",
+    "otherTitles": [
+      "NBA Pro '98"
+    ],
+    "developers": [
+      "KCEO"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "genres": [
+      "Sports",
+      "Basketball"
+    ],
+    "firstReleased": "1999-01-29T00:00:00.000Z",
+    "japanRelease": "1998-01-29T00:00:00.000Z",
+    "usaRelease": "1998-02-10T00:00:00.000Z",
+    "euroRelease": "1998-02-10T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58288",
+    "title": "NBA In The Zone '99",
+    "otherTitles": [
+      "NBA Pro '99",
+      "NBA in the Zone 2"
+    ],
+    "developers": [
+      "KCEO"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "genres": [
+      "Sports",
+      "Basketball"
+    ],
+    "firstReleased": "1999-04-01T00:00:00.000Z",
+    "japanRelease": "1999-04-01T03:00:00.000Z",
+    "usaRelease": "1999-04-07T03:00:00.000Z",
+    "euroRelease": "1999-01-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58289",
+    "title": "NBA In The Zone 2000",
+    "otherTitles": null,
+    "developers": [
+      "KCEO"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "genres": [
+      "Sports",
+      "Basketball"
+    ],
+    "firstReleased": "2000-02-18T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-02-18T00:00:00.000Z",
+    "euroRelease": "2000-05-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5828a",
+    "title": "NBA Jam 2000",
+    "otherTitles": null,
+    "developers": [
+      "Acclaim Studios Salt Lake City"
+    ],
+    "publishers": [
+      "Acclaim Sports"
+    ],
+    "genres": [
+      "Sports",
+      "Basketball"
+    ],
+    "firstReleased": "1999-11-30T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-11-30T00:00:00.000Z",
+    "euroRelease": "2000-01-21T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5828b",
+    "title": "NBA Jam 99",
+    "otherTitles": null,
+    "developers": [
+      "Iguana West"
+    ],
+    "publishers": [
+      "Acclaim Sports"
+    ],
+    "genres": [
+      "Sports",
+      "Basketball"
+    ],
+    "firstReleased": "1998-11-30T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-11-30T00:00:00.000Z",
+    "euroRelease": "1998-12-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5828c",
+    "title": "NBA Live 2000",
+    "otherTitles": null,
+    "developers": [
+      "EA Vancouver",
+      "NuFX"
+    ],
+    "publishers": [
+      "EA Sports"
+    ],
+    "genres": [
+      "Sports",
+      "Basketball"
+    ],
+    "firstReleased": "1999-10-31T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-10-31T00:00:00.000Z",
+    "euroRelease": "1999-12-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5828d",
+    "title": "NBA Live 99",
+    "otherTitles": null,
+    "developers": [
+      "EA Vancouver",
+      "NuFX"
+    ],
+    "publishers": [
+      "EA Sports"
+    ],
+    "genres": [
+      "Sports",
+      "Basketball"
+    ],
+    "firstReleased": "1998-11-04T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-11-04T00:00:00.000Z",
+    "euroRelease": "1998-12-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5828e",
+    "title": "NBA Showtime: NBA on NBC",
+    "otherTitles": null,
+    "developers": [
+      "Eurocom"
+    ],
+    "publishers": [
+      "Midway Home Entertainment"
+    ],
+    "genres": [
+      "Sports",
+      "Basketball"
+    ],
+    "firstReleased": "1999-10-31T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-10-31T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5828f",
+    "title": "Neon Genesis Evangelion",
+    "otherTitles": null,
+    "developers": [
+      "BEC"
+    ],
+    "publishers": [
+      "Bandai Games"
+    ],
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "firstReleased": "1999-06-25T00:00:00.000Z",
+    "japanRelease": "1999-06-25T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58290",
+    "title": "The New Tetris",
+    "otherTitles": null,
+    "developers": [
+      "H2O Entertainment Blue Planet Software"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Puzzle",
+      "Stacking"
+    ],
+    "firstReleased": "1999-07-31T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-07-31T00:00:00.000Z",
+    "euroRelease": "1999-10-15T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58291",
+    "title": "NFL Blitz",
+    "otherTitles": null,
+    "developers": [
+      "Midway Games"
+    ],
+    "publishers": [
+      "Midway Home Entertainment"
+    ],
+    "genres": [
+      "Sports",
+      "American Football"
+    ],
+    "firstReleased": "1998-09-09T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-09-09T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58292",
+    "title": "NFL Blitz 2000",
+    "otherTitles": null,
+    "developers": [
+      "Midway Games"
+    ],
+    "publishers": [
+      "Midway Home Entertainment"
+    ],
+    "genres": [
+      "Sports",
+      "American Football"
+    ],
+    "firstReleased": "1999-08-17T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-08-17T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58293",
+    "title": "NFL Blitz 2001",
+    "otherTitles": null,
+    "developers": [
+      "Point of View"
+    ],
+    "publishers": [
+      "Midway Home Entertainment"
+    ],
+    "genres": [
+      "Sports",
+      "American Football"
+    ],
+    "firstReleased": "2000-09-14T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-09-14T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58294",
+    "title": "NFL Blitz Special Edition",
+    "otherTitles": null,
+    "developers": [
+      "Point of View"
+    ],
+    "publishers": [
+      "Midway Home Entertainment"
+    ],
+    "genres": [
+      "Sports",
+      "American Football"
+    ],
+    "firstReleased": "2001-11-28T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2001-11-28T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58295",
+    "title": "NFL QB Club 2001",
+    "otherTitles": null,
+    "developers": [
+      "High Voltage Software"
+    ],
+    "publishers": [
+      "Acclaim Sports"
+    ],
+    "genres": [
+      "Sports",
+      "American Football"
+    ],
+    "firstReleased": "2000-08-24T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-08-24T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58296",
+    "title": "NFL Quarterback Club 2000",
+    "otherTitles": null,
+    "developers": [
+      "Acclaim Studios Austin"
+    ],
+    "publishers": [
+      "Acclaim Sports"
+    ],
+    "genres": [
+      "Sports",
+      "American Football"
+    ],
+    "firstReleased": "1999-08-26T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-08-26T00:00:00.000Z",
+    "euroRelease": "1999-09-24T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58297",
+    "title": "NFL Quarterback Club 98",
+    "otherTitles": null,
+    "developers": [
+      "Iguana Entertainment"
+    ],
+    "publishers": [
+      "Acclaim Sports"
+    ],
+    "genres": [
+      "Sports",
+      "American Football"
+    ],
+    "firstReleased": "1997-10-24T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1997-10-24T00:00:00.000Z",
+    "euroRelease": "1997-12-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58298",
+    "title": "NFL Quarterback Club 99",
+    "otherTitles": null,
+    "developers": [
+      "Iguana Entertainment"
+    ],
+    "publishers": [
+      "Acclaim Sports"
+    ],
+    "genres": [
+      "Sports",
+      "American Football"
+    ],
+    "firstReleased": "1998-11-10T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-11-10T00:00:00.000Z",
+    "euroRelease": "1998-12-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58299",
+    "title": "NHL 99",
+    "otherTitles": null,
+    "developers": [
+      "MBL Research"
+    ],
+    "publishers": [
+      "EA Sports"
+    ],
+    "genres": [
+      "Sports",
+      "Ice Hockey"
+    ],
+    "firstReleased": "1998-10-01T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-10-01T00:00:00.000Z",
+    "euroRelease": "1998-11-30T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5829a",
+    "title": "NHL Blades of Steel '99",
+    "otherTitles": [
+      "NHL Pro 99"
+    ],
+    "developers": [
+      "KCEO"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "genres": [
+      "Sports",
+      "Ice Hockey"
+    ],
+    "firstReleased": "1999-04-05T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-04-05T00:00:00.000Z",
+    "euroRelease": "1999-09-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5829b",
+    "title": "NHL Breakaway 98",
+    "otherTitles": null,
+    "developers": [
+      "Iguana Entertainment"
+    ],
+    "publishers": [
+      "Acclaim Sports"
+    ],
+    "genres": [
+      "Sports",
+      "Ice Hockey"
+    ],
+    "firstReleased": "1998-02-26T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-02-26T00:00:00.000Z",
+    "euroRelease": "1998-02-26T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5829c",
+    "title": "NHL Breakaway 99",
+    "otherTitles": null,
+    "developers": [
+      "Iguana West"
+    ],
+    "publishers": [
+      "Acclaim Sports"
+    ],
+    "genres": [
+      "Sports",
+      "Ice Hockey"
+    ],
+    "firstReleased": "1998-11-30T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-11-30T00:00:00.000Z",
+    "euroRelease": "1998-12-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5829d",
+    "title": "Nightmare Creatures",
+    "otherTitles": null,
+    "developers": [
+      "Kalisto Entertainment"
+    ],
+    "publishers": [
+      "Activision"
+    ],
+    "genres": [
+      "Action",
+      "Survival-Horror"
+    ],
+    "firstReleased": "1998-11-01T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-11-01T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5829e",
+    "title": "Nintama Rantarō 64 Game Gallery",
+    "otherTitles": null,
+    "developers": [
+      "Culture Brain"
+    ],
+    "publishers": [
+      "Culture Brain"
+    ],
+    "genres": [
+      "Puzzle",
+      "Logic"
+    ],
+    "firstReleased": "2000-04-21T00:00:00.000Z",
+    "japanRelease": "2000-04-21T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5829f",
+    "title": "Nuclear Strike 64",
+    "otherTitles": null,
+    "developers": [
+      "Pacific Coast Power & Light"
+    ],
+    "publishers": [
+      "THQ"
+    ],
+    "genres": [
+      "Action",
+      "Multidirectional shooter"
+    ],
+    "firstReleased": "1999-11-30T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-11-30T00:00:00.000Z",
+    "euroRelease": "2000-03-03T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582a0",
+    "title": "Nushi Tsuri 64",
+    "otherTitles": null,
+    "developers": [
+      "Victor Interactive Software"
+    ],
+    "publishers": [
+      "Pack-In-Soft"
+    ],
+    "genres": [
+      "Sports",
+      "Fishing"
+    ],
+    "firstReleased": "1998-11-27T00:00:00.000Z",
+    "japanRelease": "1998-11-27T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582a1",
+    "title": "Nushi Tsuri 64: Shiokaze Ni Notte",
+    "otherTitles": null,
+    "developers": [
+      "Victor Interactive Software"
+    ],
+    "publishers": [
+      "Victor Interactive Software"
+    ],
+    "genres": [
+      "Sports",
+      "Fishing"
+    ],
+    "firstReleased": "2000-05-26T00:00:00.000Z",
+    "japanRelease": "2000-05-26T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582a2",
+    "title": "Off Road Challenge",
+    "otherTitles": null,
+    "developers": [
+      "Avalanche Software"
+    ],
+    "publishers": [
+      "Midway Home Entertainment",
+      "GT Interactive"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "1998-06-01T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-06-01T00:00:00.000Z",
+    "euroRelease": "1998-09-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582a3",
+    "title": "Ogre Battle 64: Person of Lordly Caliber",
+    "otherTitles": null,
+    "developers": [
+      "Quest Corporation"
+    ],
+    "publishers": [
+      "Atlus USA",
+      "Nintendo"
+    ],
+    "genres": [
+      "Role Playing",
+      "Tactical"
+    ],
+    "firstReleased": "1999-07-14T00:00:00.000Z",
+    "japanRelease": "1999-07-14T00:00:00.000Z",
+    "usaRelease": "2000-10-07T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582a4",
+    "title": "Olympic Hockey 98",
+    "otherTitles": [
+      "Olympic Hockey Nagano '98"
+    ],
+    "developers": [
+      "Treyarch Invention"
+    ],
+    "publishers": [
+      "Midway Home Entertainment",
+      "GT Interactive",
+      "Konami"
+    ],
+    "genres": [
+      "Sports",
+      "Ice Hockey"
+    ],
+    "firstReleased": "1998-02-23T00:00:00.000Z",
+    "japanRelease": "1998-07-16T00:00:00.000Z",
+    "usaRelease": "1998-02-23T00:00:00.000Z",
+    "euroRelease": "1998-04-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582a5",
+    "title": "Onegai Monsters",
+    "otherTitles": null,
+    "developers": [
+      "Bottom Up"
+    ],
+    "publishers": [
+      "Bottom Up"
+    ],
+    "genres": [
+      "Simulation",
+      "Digital Pet"
+    ],
+    "firstReleased": "1999-04-09T00:00:00.000Z",
+    "japanRelease": "1999-04-09T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582a6",
+    "title": "Pachinko 365 Nichi",
+    "otherTitles": null,
+    "developers": [
+      "SETA Corporation"
+    ],
+    "publishers": [
+      "SETA Corporation"
+    ],
+    "genres": [
+      "Gambling",
+      "Pachinko"
+    ],
+    "firstReleased": "1998-05-29T00:00:00.000Z",
+    "japanRelease": "1998-05-29T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582a7",
+    "title": "Paper Mario",
+    "otherTitles": [
+      "Mario Story"
+    ],
+    "developers": [
+      "Intelligent Systems"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Role Playing",
+      "JRPG"
+    ],
+    "firstReleased": "2000-08-11T00:00:00.000Z",
+    "japanRelease": "2000-08-11T00:00:00.000Z",
+    "usaRelease": "2001-02-05T00:00:00.000Z",
+    "euroRelease": "2001-10-05T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582a8",
+    "title": "Paperboy",
+    "otherTitles": null,
+    "developers": [
+      "High Voltage Software"
+    ],
+    "publishers": [
+      "Midway Home Entertainment",
+      "Midway Games"
+    ],
+    "genres": [
+      "Action",
+      "Arcade"
+    ],
+    "firstReleased": "1999-10-31T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-10-31T00:00:00.000Z",
+    "euroRelease": "2000-03-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582a9",
+    "title": "Parlor! Pro 64: Pachinko Jikki Simulation",
+    "otherTitles": null,
+    "developers": [
+      "Irem",
+      "Telenet Japan"
+    ],
+    "publishers": [
+      "Telenet Japan"
+    ],
+    "genres": [
+      "Gambling",
+      "Pachinko"
+    ],
+    "firstReleased": "1999-01-29T00:00:00.000Z",
+    "japanRelease": "1999-01-29T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582aa",
+    "title": "PD Ultraman Battle Collection 64",
+    "otherTitles": null,
+    "developers": [
+      "Bandai"
+    ],
+    "publishers": [
+      "Bandai Games"
+    ],
+    "genres": [
+      "Role Playing",
+      "JRPG"
+    ],
+    "firstReleased": "1999-07-16T00:00:00.000Z",
+    "japanRelease": "1999-07-16T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582ab",
+    "title": "Penny Racers",
+    "otherTitles": [
+      "Choro Q 64"
+    ],
+    "developers": [
+      "Locomotive Corporation"
+    ],
+    "publishers": [
+      "Takara",
+      "THQ"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "1998-07-17T00:00:00.000Z",
+    "japanRelease": "1998-07-17T00:00:00.000Z",
+    "usaRelease": "1999-02-10T00:00:00.000Z",
+    "euroRelease": "1999-03-05T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582ac",
+    "title": "Perfect Dark",
+    "otherTitles": null,
+    "developers": [
+      "Rare"
+    ],
+    "publishers": [
+      "Rare"
+    ],
+    "genres": [
+      "Action",
+      "First-Person Shooter"
+    ],
+    "firstReleased": "2000-06-30T00:00:00.000Z",
+    "japanRelease": "2000-10-21T00:00:00.000Z",
+    "usaRelease": "2000-05-22T00:00:00.000Z",
+    "euroRelease": "2000-06-30T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582ad",
+    "title": "PGA European Tour Golf",
+    "otherTitles": [
+      "PGA European Tour"
+    ],
+    "developers": [
+      "Infogrames Sheffield House"
+    ],
+    "publishers": [
+      "Infogrames"
+    ],
+    "genres": [
+      "Sports",
+      "Golf"
+    ],
+    "firstReleased": "2000-05-01T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-06-15T00:00:00.000Z",
+    "euroRelease": "2000-05-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582ae",
+    "title": "Pilotwings 64",
+    "otherTitles": null,
+    "developers": [
+      "Nintendo Entertainment Analysis & Development",
+      "Nintendo Integrated Research & Development",
+      "Paradigm Entertainment"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Simulation",
+      "Flight"
+    ],
+    "firstReleased": "1996-06-23T00:00:00.000Z",
+    "japanRelease": "1996-06-23T00:00:00.000Z",
+    "usaRelease": "1996-09-29T00:00:00.000Z",
+    "euroRelease": "1997-03-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582af",
+    "title": "Pocket Monsters Stadium",
+    "otherTitles": null,
+    "developers": [
+      "Nintendo Entertainment Analysis & Development",
+      "HAL Laboratory"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Action",
+      "Turn-Based Battle"
+    ],
+    "firstReleased": "1998-08-01T00:00:00.000Z",
+    "japanRelease": "1998-08-01T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582b0",
+    "title": "Pokémon Puzzle League",
+    "otherTitles": null,
+    "developers": [
+      "Nintendo Software Technology"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Puzzle",
+      "Tile Matching"
+    ],
+    "firstReleased": "2000-09-25T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-09-25T00:00:00.000Z",
+    "euroRelease": "2001-03-02T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582b1",
+    "title": "Pokémon Snap",
+    "otherTitles": null,
+    "developers": [
+      "HAL Laboratory Pax Softnica"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Action",
+      "3D Rail Shooter"
+    ],
+    "firstReleased": "1999-03-21T00:00:00.000Z",
+    "japanRelease": "1999-03-21T00:00:00.000Z",
+    "usaRelease": "1999-06-30T00:00:00.000Z",
+    "euroRelease": "2000-09-15T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582b2",
+    "title": "Pokémon Stadium",
+    "otherTitles": [
+      "Pokémon Stadium 2"
+    ],
+    "developers": [
+      "Nintendo Entertainment Analysis & Development",
+      "HAL Laboratory"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Action",
+      "Turn-Based Battle"
+    ],
+    "firstReleased": "1999-04-30T00:00:00.000Z",
+    "japanRelease": "1999-04-30T00:00:00.000Z",
+    "usaRelease": "2000-03-26T00:00:00.000Z",
+    "euroRelease": "2000-04-07T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582b3",
+    "title": "Pokémon Stadium 2",
+    "otherTitles": [
+      "Pokémon Stadium Gold Silver"
+    ],
+    "developers": [
+      "Nintendo EAD"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Action",
+      "Turn-Based Battle"
+    ],
+    "firstReleased": "2000-12-14T00:00:00.000Z",
+    "japanRelease": "2000-12-14T00:00:00.000Z",
+    "usaRelease": "2001-03-26T00:00:00.000Z",
+    "euroRelease": "2001-10-10T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582b4",
+    "title": "Polaris SnoCross",
+    "otherTitles": null,
+    "developers": [
+      "Vicarious Visions"
+    ],
+    "publishers": [
+      "Vatical Entertainment"
+    ],
+    "genres": [
+      "Racing",
+      "Snowmobile"
+    ],
+    "firstReleased": "2000-12-27T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-12-27T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582b5",
+    "title": "Power League 64",
+    "otherTitles": null,
+    "developers": [
+      "Hudson Soft"
+    ],
+    "publishers": [
+      "Hudson Soft"
+    ],
+    "genres": [
+      "Sports",
+      "Baseball"
+    ],
+    "firstReleased": "1997-08-08T00:00:00.000Z",
+    "japanRelease": "1997-08-08T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582b6",
+    "title": "Power Rangers Lightspeed Rescue",
+    "otherTitles": null,
+    "developers": [
+      "Mass Media Games"
+    ],
+    "publishers": [
+      "THQ"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "firstReleased": "2000-09-28T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-09-28T00:00:00.000Z",
+    "euroRelease": "2000-12-08T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582b7",
+    "title": "The Powerpuff Girls: Chemical X-Traction",
+    "otherTitles": null,
+    "developers": [
+      "VIS Entertainment Asylum Entertainment"
+    ],
+    "publishers": [
+      "BAM! Entertainment"
+    ],
+    "genres": [
+      "Action",
+      "Arena Fighter"
+    ],
+    "firstReleased": "2001-10-14T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2001-10-14T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582b8",
+    "title": "Premier Manager 64",
+    "otherTitles": null,
+    "developers": [
+      "Gremlin Interactive"
+    ],
+    "publishers": [
+      "Gremlin Interactive"
+    ],
+    "genres": [
+      "Sports",
+      "Management Sim"
+    ],
+    "firstReleased": "1999-08-01T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": null,
+    "euroRelease": "1999-08-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582b9",
+    "title": "Pro Mahjong Kiwame 64",
+    "otherTitles": null,
+    "developers": [
+      "Athena"
+    ],
+    "publishers": [
+      "Athena"
+    ],
+    "genres": [
+      "Gambling",
+      "Mahjong"
+    ],
+    "firstReleased": "1997-11-21T00:00:00.000Z",
+    "japanRelease": "1997-11-21T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582ba",
+    "title": "Pro Shinan Mahjong Tsuwamono 64: Jansō Battle ni Chōsen",
+    "otherTitles": null,
+    "developers": [
+      "Culture Brain"
+    ],
+    "publishers": [
+      "Culture Brain"
+    ],
+    "genres": [
+      "Gambling",
+      "Mahjong"
+    ],
+    "firstReleased": "1999-11-05T00:00:00.000Z",
+    "japanRelease": "1999-11-05T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582bb",
+    "title": "Puyo Puyo Sun 64",
+    "otherTitles": null,
+    "developers": [
+      "Compile"
+    ],
+    "publishers": [
+      "Compile"
+    ],
+    "genres": [
+      "Puzzle",
+      "Tile Matching"
+    ],
+    "firstReleased": "1997-10-31T00:00:00.000Z",
+    "japanRelease": "1997-10-31T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582bc",
+    "title": "Puyo Puyo~n Party",
+    "otherTitles": null,
+    "developers": [
+      "Compile"
+    ],
+    "publishers": [
+      "Compile"
+    ],
+    "genres": [
+      "Puzzle",
+      "Tile Matching"
+    ],
+    "firstReleased": "1999-12-03T00:00:00.000Z",
+    "japanRelease": "1999-12-03T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582bd",
+    "title": "Quake 64",
+    "otherTitles": null,
+    "developers": [
+      "Midway Studios - San Diego"
+    ],
+    "publishers": [
+      "Midway Home Entertainment",
+      "GT Interactive"
+    ],
+    "genres": [
+      "Action",
+      "First-Person Shooter"
+    ],
+    "firstReleased": "1998-03-24T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-03-24T00:00:00.000Z",
+    "euroRelease": "1998-05-24T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582be",
+    "title": "Quake II",
+    "otherTitles": null,
+    "developers": [
+      "Raster Productions"
+    ],
+    "publishers": [
+      "Activision"
+    ],
+    "genres": [
+      "Action",
+      "First-Person Shooter"
+    ],
+    "firstReleased": "1999-02-07T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-06-30T00:00:00.000Z",
+    "euroRelease": "1999-02-07T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582bf",
+    "title": "Quest 64",
+    "otherTitles": [
+      "Holy Magic Century",
+      "Eltale Monsters"
+    ],
+    "developers": [
+      "Imagineer"
+    ],
+    "publishers": [
+      "THQ",
+      "Konami"
+    ],
+    "genres": [
+      "Role Playing",
+      "JRPG"
+    ],
+    "firstReleased": "1999-06-01T00:00:00.000Z",
+    "japanRelease": "1999-07-09T00:00:00.000Z",
+    "usaRelease": "1998-06-01T00:00:00.000Z",
+    "euroRelease": "1998-09-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582c0",
+    "title": "Rakugakids",
+    "otherTitles": null,
+    "developers": [
+      "KCEK"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "firstReleased": "1998-07-23T00:00:00.000Z",
+    "japanRelease": "1998-07-23T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": "1998-12-04T02:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582c1",
+    "title": "Racing Simulation: Monaco Grand Prix",
+    "otherTitles": [
+      "Monaco Grand Prix",
+      "Monaco Grand Prix: Racing Simulation 2",
+      "Racing Simulation 2"
+    ],
+    "developers": [
+      "Ubi Soft Paris"
+    ],
+    "publishers": [
+      "Ubi Soft"
+    ],
+    "genres": [
+      "Racing",
+      "Grand Prix"
+    ],
+    "firstReleased": "1999-06-01T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-09-01T00:00:00.000Z",
+    "euroRelease": "1999-06-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582c2",
+    "title": "Rally Challenge 2000",
+    "otherTitles": [
+      "Rally '99"
+    ],
+    "developers": [
+      "Genki"
+    ],
+    "publishers": [
+      "Imagineer",
+      "SouthPeak Interactive",
+      "Xicat"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "1999-08-06T00:00:00.000Z",
+    "japanRelease": "1999-08-06T00:00:00.000Z",
+    "usaRelease": "2000-06-30T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582c3",
+    "title": "Rampage 2: Universal Tour",
+    "otherTitles": null,
+    "developers": [
+      "Avalanche Software"
+    ],
+    "publishers": [
+      "Midway Home Entertainment",
+      "GT Interactive"
+    ],
+    "genres": [
+      "Action",
+      "Arcade"
+    ],
+    "firstReleased": "1999-03-01T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-03-01T00:00:00.000Z",
+    "euroRelease": "1999-05-21T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582c4",
+    "title": "Rampage World Tour",
+    "otherTitles": null,
+    "developers": [
+      "Saffire"
+    ],
+    "publishers": [
+      "Midway Home Entertainment",
+      "GT Interactive"
+    ],
+    "genres": [
+      "Action",
+      "Arcade"
+    ],
+    "firstReleased": "1998-03-30T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-03-30T00:00:00.000Z",
+    "euroRelease": "1998-06-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582c5",
+    "title": "Rat Attack",
+    "otherTitles": null,
+    "developers": [
+      "Pure Entertainment"
+    ],
+    "publishers": [
+      "Mindscape"
+    ],
+    "genres": [
+      "Action",
+      "Puzzle"
+    ],
+    "firstReleased": "2000-04-21T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-09-12T00:00:00.000Z",
+    "euroRelease": "2000-04-21T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582c6",
+    "title": "Rayman 2: The Great Escape",
+    "otherTitles": null,
+    "developers": [
+      "Ubi Pictures"
+    ],
+    "publishers": [
+      "Ubi Soft"
+    ],
+    "genres": [
+      "Action",
+      "3D Platformer"
+    ],
+    "firstReleased": "1999-10-29T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-11-06T00:00:00.000Z",
+    "euroRelease": "1999-10-29T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582c7",
+    "title": "Razor Freestyle Scooter",
+    "otherTitles": null,
+    "developers": [
+      "Titanium Studios"
+    ],
+    "publishers": [
+      "Crave Entertainment"
+    ],
+    "genres": [
+      "Sports",
+      "Extreme Sports"
+    ],
+    "firstReleased": "2001-11-27T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2001-11-27T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582c8",
+    "title": "Re-Volt",
+    "otherTitles": null,
+    "developers": [
+      "Acclaim Studios London"
+    ],
+    "publishers": [
+      "Acclaim Entertainment"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "1999-08-18T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-08-18T00:00:00.000Z",
+    "euroRelease": "1999-09-03T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582c9",
+    "title": "Ready 2 Rumble Boxing",
+    "otherTitles": null,
+    "developers": [
+      "Point of View"
+    ],
+    "publishers": [
+      "Midway Home Entertainment",
+      "Midway Games"
+    ],
+    "genres": [
+      "Sport",
+      "Boxing"
+    ],
+    "firstReleased": "1999-10-31T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-10-31T00:00:00.000Z",
+    "euroRelease": "1999-12-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582ca",
+    "title": "Ready 2 Rumble Boxing: Round 2",
+    "otherTitles": null,
+    "developers": [
+      "Point of View"
+    ],
+    "publishers": [
+      "Midway Home Entertainment"
+    ],
+    "genres": [
+      "Sport",
+      "Boxing"
+    ],
+    "firstReleased": "2000-11-13T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-11-13T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582cb",
+    "title": "Resident Evil 2",
+    "otherTitles": [
+      "Biohazard 2"
+    ],
+    "developers": [
+      "Rockstar San Diego",
+      "Capcom",
+      "Factor 5"
+    ],
+    "publishers": [
+      "Capcom",
+      "Virgin InteractiveEU"
+    ],
+    "genres": [
+      "Action",
+      "Survival-Horror"
+    ],
+    "firstReleased": "1999-10-31T00:00:00.000Z",
+    "japanRelease": "2000-01-28T00:00:00.000Z",
+    "usaRelease": "1999-10-31T00:00:00.000Z",
+    "euroRelease": "2000-02-09T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582cc",
+    "title": "Ridge Racer 64",
+    "otherTitles": null,
+    "developers": [
+      "Nintendo Software Technology"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "2000-02-14T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-02-14T00:00:00.000Z",
+    "euroRelease": "2000-07-04T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582cd",
+    "title": "Road Rash 64",
+    "otherTitles": null,
+    "developers": [
+      "Pacific Coast Power & Light"
+    ],
+    "publishers": [
+      "THQ"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "1999-09-27T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-09-27T00:00:00.000Z",
+    "euroRelease": "1999-12-17T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582ce",
+    "title": "Roadsters",
+    "otherTitles": null,
+    "developers": [
+      "Titus Interactive"
+    ],
+    "publishers": [
+      "Titus Software"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "1999-11-30T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-11-30T00:00:00.000Z",
+    "euroRelease": "1999-12-17T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582cf",
+    "title": "Robot Ponkottsu 64: Nanatsu no Umi no Caramel",
+    "otherTitles": null,
+    "developers": [
+      "Red Company"
+    ],
+    "publishers": [
+      "Hudson Soft"
+    ],
+    "genres": [
+      "Role Playing",
+      "JRPG"
+    ],
+    "firstReleased": "1999-12-24T00:00:00.000Z",
+    "japanRelease": "1999-12-24T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582d0",
+    "title": "Robotron 64",
+    "otherTitles": null,
+    "developers": [
+      "Player 1"
+    ],
+    "publishers": [
+      "Crave Entertainment",
+      "GT Interactive"
+    ],
+    "genres": [
+      "Action",
+      "Multidirectional Shooter"
+    ],
+    "firstReleased": "1998-01-05T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-01-05T00:00:00.000Z",
+    "euroRelease": "1998-06-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582d1",
+    "title": "Rocket: Robot on Wheels",
+    "otherTitles": null,
+    "developers": [
+      "Sucker Punch Productions"
+    ],
+    "publishers": [
+      "Ubi Soft"
+    ],
+    "genres": [
+      "Action",
+      "3D Platformer"
+    ],
+    "firstReleased": "1999-10-31T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-10-31T00:00:00.000Z",
+    "euroRelease": "1999-12-17T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582d2",
+    "title": "Rugrats in Paris - The Movie",
+    "otherTitles": null,
+    "developers": [
+      "Avalanche Software"
+    ],
+    "publishers": [
+      "THQ"
+    ],
+    "genres": [
+      "Action",
+      "3D Platformer"
+    ],
+    "firstReleased": "2000-11-12T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-11-12T00:00:00.000Z",
+    "euroRelease": "2001-03-30T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582d3",
+    "title": "Rugrats: Scavenger Hunt",
+    "otherTitles": [
+      "Rugrats: Treasure Hunt"
+    ],
+    "developers": [
+      "Realtime Associates"
+    ],
+    "publishers": [
+      "THQ"
+    ],
+    "genres": [
+      "Party",
+      "Board Game"
+    ],
+    "firstReleased": "1999-06-29T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-06-29T00:00:00.000Z",
+    "euroRelease": "1999-08-10T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582d4",
+    "title": "Rush 2: Extreme Racing USA",
+    "otherTitles": [
+      "Rush 2: Extreme Racing"
+    ],
+    "developers": [
+      "Atari Games"
+    ],
+    "publishers": [
+      "Midway Home Entertainment",
+      "GT Interactive"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": null,
+    "japanRelease": null,
+    "usaRelease": "1998-11-10T00:00:00.000Z",
+    "euroRelease": "1999-02-04T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582d5",
+    "title": "S.C.A.R.S.",
+    "otherTitles": null,
+    "developers": [
+      "Vivid Image"
+    ],
+    "publishers": [
+      "Ubi Soft"
+    ],
+    "genres": [
+      "Racing",
+      "Battle"
+    ],
+    "firstReleased": "1998-12-04T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-12-04T00:00:00.000Z",
+    "euroRelease": "1999-01-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582d6",
+    "title": "Saikyō Habu Shōgi",
+    "otherTitles": null,
+    "developers": [
+      "SETA Corporation"
+    ],
+    "publishers": [
+      "SETA Corporation"
+    ],
+    "genres": [
+      "Traditional",
+      "Shogi"
+    ],
+    "firstReleased": "1996-06-23T00:00:00.000Z",
+    "japanRelease": "1996-06-23T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582d7",
+    "title": "San Francisco Rush 2049",
+    "otherTitles": null,
+    "developers": [
+      "Midway Games West"
+    ],
+    "publishers": [
+      "Midway Home Entertainment",
+      "Midway Games"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "2000-09-07T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-09-07T00:00:00.000Z",
+    "euroRelease": "2000-11-17T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582d8",
+    "title": "San Francisco Rush: Extreme Racing",
+    "otherTitles": null,
+    "developers": [
+      "Midway Games"
+    ],
+    "publishers": [
+      "Midway Home Entertainment",
+      "GT Interactive"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "1997-11-08T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1997-11-08T00:00:00.000Z",
+    "euroRelease": "1997-12-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582d9",
+    "title": "Scooby-Doo! Classic Creep Capers",
+    "otherTitles": null,
+    "developers": [
+      "Terraglyph Interactive Studios"
+    ],
+    "publishers": [
+      "THQ"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "firstReleased": "2000-11-30T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-11-30T00:00:00.000Z",
+    "euroRelease": "2001-03-30T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582da",
+    "title": "S.D. Hiryū no Ken Twin",
+    "otherTitles": null,
+    "developers": [
+      "Culture Brain"
+    ],
+    "publishers": [
+      "Culture Brain"
+    ],
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "firstReleased": "1999-01-29T00:00:00.000Z",
+    "japanRelease": "1999-01-29T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582db",
+    "title": "Shadow Man",
+    "otherTitles": null,
+    "developers": [
+      "Acclaim Studios Teesside"
+    ],
+    "publishers": [
+      "Acclaim Entertainment"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "firstReleased": "1999-08-31T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-08-31T00:00:00.000Z",
+    "euroRelease": "1999-09-03T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582dc",
+    "title": "Shadowgate 64: Trials of the Four Towers",
+    "otherTitles": null,
+    "developers": [
+      "TNS Co. Infinite Ventures"
+    ],
+    "publishers": [
+      "Kemco"
+    ],
+    "genres": [
+      "Adventure",
+      "Point-and-click"
+    ],
+    "firstReleased": "1999-05-31T00:00:00.000Z",
+    "japanRelease": "1999-08-13T00:00:00.000Z",
+    "usaRelease": "1999-05-31T00:00:00.000Z",
+    "euroRelease": "1999-07-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582dd",
+    "title": "Shin Nippon Pro Wrestling: Toukon Road - Brave Spirits",
+    "otherTitles": null,
+    "developers": [
+      "Yuke's"
+    ],
+    "publishers": [
+      "Hudson Soft"
+    ],
+    "genres": [
+      "Sports",
+      "Pro Wrestling"
+    ],
+    "firstReleased": "1998-01-04T00:00:00.000Z",
+    "japanRelease": "1998-01-04T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582de",
+    "title": "Shin Nippon Pro Wrestling: Toukon Road 2- Next Generation",
+    "otherTitles": null,
+    "developers": [
+      "Yuke's"
+    ],
+    "publishers": [
+      "Hudson Soft"
+    ],
+    "genres": [
+      "Sports",
+      "Pro Wrestling"
+    ],
+    "firstReleased": "1998-12-26T00:00:00.000Z",
+    "japanRelease": "1998-12-26T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582df",
+    "title": "Sim City 2000",
+    "otherTitles": null,
+    "developers": [
+      "Genki"
+    ],
+    "publishers": [
+      "Imagineer"
+    ],
+    "genres": [
+      "Simulation",
+      "Management"
+    ],
+    "firstReleased": "1998-01-30T00:00:00.000Z",
+    "japanRelease": "1998-01-30T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582e0",
+    "title": "Sin and Punishment",
+    "otherTitles": [
+      "Tsumi to Batsu: Hoshi no Keishōsha"
+    ],
+    "developers": [
+      "Treasure"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Action",
+      "3D Rail Shooter"
+    ],
+    "firstReleased": "2000-11-21T00:00:00.000Z",
+    "japanRelease": "2000-11-21T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582e1",
+    "title": "Snowboard Kids",
+    "otherTitles": [
+      "Snobow Kids"
+    ],
+    "developers": [
+      "Racdym"
+    ],
+    "publishers": [
+      "Atlus"
+    ],
+    "genres": [
+      "Sports",
+      "Snowboarding"
+    ],
+    "firstReleased": "1997-12-12T00:00:00.000Z",
+    "japanRelease": "1997-12-12T00:00:00.000Z",
+    "usaRelease": "1998-03-15T00:00:00.000Z",
+    "euroRelease": "1998-03-16T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582e2",
+    "title": "Snowboard Kids 2",
+    "otherTitles": [
+      "Chou Snobow Kids"
+    ],
+    "developers": [
+      "Racdym"
+    ],
+    "publishers": [
+      "Atlus"
+    ],
+    "genres": [
+      "Sports",
+      "Snowboarding"
+    ],
+    "firstReleased": "1999-02-19T00:00:00.000Z",
+    "japanRelease": "1999-02-19T00:00:00.000Z",
+    "usaRelease": "1999-03-02T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582e3",
+    "title": "South Park",
+    "otherTitles": null,
+    "developers": [
+      "Iguana Entertainment"
+    ],
+    "publishers": [
+      "Acclaim Entertainment"
+    ],
+    "genres": [
+      "Action",
+      "First-Person Shooter"
+    ],
+    "firstReleased": "1998-12-21T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-12-21T00:00:00.000Z",
+    "euroRelease": "1999-05-03T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582e4",
+    "title": "South Park Rally",
+    "otherTitles": null,
+    "developers": [
+      "Tantalus Interactive"
+    ],
+    "publishers": [
+      "Acclaim Entertainment"
+    ],
+    "genres": [
+      "Racing",
+      "Kart"
+    ],
+    "firstReleased": "2000-02-28T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-02-28T00:00:00.000Z",
+    "euroRelease": "2000-03-03T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582e5",
+    "title": "South Park: Chef's Luv Shack",
+    "otherTitles": null,
+    "developers": [
+      "Acclaim Studios Austin"
+    ],
+    "publishers": [
+      "Acclaim Entertainment"
+    ],
+    "genres": [
+      "Trivia",
+      "Game Show"
+    ],
+    "firstReleased": "1999-10-12T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-10-12T00:00:00.000Z",
+    "euroRelease": "1999-10-31T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582e6",
+    "title": "Space Invaders",
+    "otherTitles": null,
+    "developers": [
+      "Z-Axis"
+    ],
+    "publishers": [
+      "Activision"
+    ],
+    "genres": [
+      "Action",
+      "Fixed Shooter"
+    ],
+    "firstReleased": "1999-11-30T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-11-30T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582e7",
+    "title": "Space Station Silicon Valley",
+    "otherTitles": null,
+    "developers": [
+      "DMA Design"
+    ],
+    "publishers": [
+      "Take-Two Interactive"
+    ],
+    "genres": [
+      "Action",
+      "3D Platformer"
+    ],
+    "firstReleased": "1998-10-21T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-10-21T00:00:00.000Z",
+    "euroRelease": "1998-11-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582e8",
+    "title": "Spider-Man",
+    "otherTitles": null,
+    "developers": [
+      "Edge of Reality"
+    ],
+    "publishers": [
+      "Activision"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "firstReleased": "2000-11-21T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-11-21T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582e9",
+    "title": "Star Fox 64",
+    "otherTitles": [
+      "Lylat Wars"
+    ],
+    "developers": [
+      "Nintendo EAD"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Action",
+      "3D Rail Shooter"
+    ],
+    "firstReleased": "1997-04-27T00:00:00.000Z",
+    "japanRelease": "1997-04-27T00:00:00.000Z",
+    "usaRelease": "1997-06-30T00:00:00.000Z",
+    "euroRelease": "1997-10-04T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582ea",
+    "title": "Star Soldier: Vanishing Earth",
+    "otherTitles": null,
+    "developers": [
+      "Hudson Soft"
+    ],
+    "publishers": [
+      "Hudson SoftJP Electro Brain"
+    ],
+    "genres": [
+      "Action",
+      "Vertical Shooter"
+    ],
+    "firstReleased": "1998-07-10T00:00:00.000Z",
+    "japanRelease": "1998-07-10T00:00:00.000Z",
+    "usaRelease": "1998-12-15T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582eb",
+    "title": "Star Wars Episode I: Battle for Naboo",
+    "otherTitles": null,
+    "developers": [
+      "Factor 5",
+      "LucasArts"
+    ],
+    "publishers": [
+      "LucasArtsNA THQ"
+    ],
+    "genres": [
+      "Action",
+      "Flight Combat"
+    ],
+    "firstReleased": "2000-12-18T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-12-18T00:00:00.000Z",
+    "euroRelease": "2001-03-30T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582ec",
+    "title": "Star Wars Episode I: Racer",
+    "otherTitles": null,
+    "developers": [
+      "LucasArts"
+    ],
+    "publishers": [
+      "LucasArts"
+    ],
+    "genres": [
+      "Racing",
+      "Hovercraft"
+    ],
+    "firstReleased": "1999-05-18T00:00:00.000Z",
+    "japanRelease": "1999-07-21T00:00:00.000Z",
+    "usaRelease": "1999-05-18T00:00:00.000Z",
+    "euroRelease": "1999-06-04T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582ed",
+    "title": "Star Wars: Rogue Squadron",
+    "otherTitles": [
+      "Star Wars: Shutsugeki! Rogue Chuutai"
+    ],
+    "developers": [
+      "Factor 5",
+      "LucasArts"
+    ],
+    "publishers": [
+      "LucasArts",
+      "Nintendo"
+    ],
+    "genres": [
+      "Action",
+      "Flight Combat"
+    ],
+    "firstReleased": "1998-12-07T00:00:00.000Z",
+    "japanRelease": "1999-08-27T00:00:00.000Z",
+    "usaRelease": "1998-12-07T00:00:00.000Z",
+    "euroRelease": "1999-01-10T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582ee",
+    "title": "Star Wars: Shadows of the Empire",
+    "otherTitles": [
+      "Star Wars: Teikoku no Kage"
+    ],
+    "developers": [
+      "LucasArts"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Action",
+      "Third-Person Shooter"
+    ],
+    "firstReleased": "1996-12-03T00:00:00.000Z",
+    "japanRelease": "1997-06-14T00:00:00.000Z",
+    "usaRelease": "1996-12-03T00:00:00.000Z",
+    "euroRelease": "1997-03-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582ef",
+    "title": "StarCraft 64",
+    "otherTitles": null,
+    "developers": [
+      "Blizzard Entertainment",
+      "Mass Media Games"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Strategy",
+      "Real-Time"
+    ],
+    "firstReleased": "2000-06-12T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-06-12T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582f0",
+    "title": "Starshot: Space Circus Fever",
+    "otherTitles": null,
+    "developers": [
+      "Infogrames"
+    ],
+    "publishers": [
+      "Infogrames"
+    ],
+    "genres": [
+      "Action",
+      "3D Platformer"
+    ],
+    "firstReleased": "1998-12-04T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-06-30T00:00:00.000Z",
+    "euroRelease": "1998-12-04T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582f1",
+    "title": "Stunt Racer 64",
+    "otherTitles": null,
+    "developers": [
+      "Boss Game Studios"
+    ],
+    "publishers": [
+      "Midway Home Entertainment"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "2000-10-01T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-10-01T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582f2",
+    "title": "Super B-Daman: Battle Phoenix 64",
+    "otherTitles": null,
+    "developers": [
+      "Hudson Soft"
+    ],
+    "publishers": [
+      "Hudson Soft"
+    ],
+    "genres": [
+      "Party",
+      "Mini Games"
+    ],
+    "firstReleased": "1998-07-24T00:00:00.000Z",
+    "japanRelease": "1998-07-24T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582f3",
+    "title": "Super Bowling",
+    "otherTitles": null,
+    "developers": [
+      "Athena"
+    ],
+    "publishers": [
+      "AthenaJP UFO Interactive Games"
+    ],
+    "genres": [
+      "Sports",
+      "Bowling"
+    ],
+    "firstReleased": "1999-03-26T00:00:00.000Z",
+    "japanRelease": "1999-03-26T00:00:00.000Z",
+    "usaRelease": "2000-01-15T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582f4",
+    "title": "Super Mario 64",
+    "otherTitles": null,
+    "developers": [
+      "Nintendo EAD"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Action",
+      "3D Platformer"
+    ],
+    "firstReleased": "1996-06-23T00:00:00.000Z",
+    "japanRelease": "1996-06-23T00:00:00.000Z",
+    "usaRelease": "1996-09-29T00:00:00.000Z",
+    "euroRelease": "1997-03-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582f5",
+    "title": "Super Mario 64 Shindō Pak Taiō Version",
+    "otherTitles": null,
+    "developers": [
+      "Nintendo EAD"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Action",
+      "3D Platformer"
+    ],
+    "firstReleased": "1997-07-18T00:00:00.000Z",
+    "japanRelease": "1997-07-18T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582f6",
+    "title": "Super Robot Spirits",
+    "otherTitles": null,
+    "developers": [
+      "Banpresto"
+    ],
+    "publishers": [
+      "Banpresto"
+    ],
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "firstReleased": "1998-07-17T00:00:00.000Z",
+    "japanRelease": "1998-07-17T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582f7",
+    "title": "Super Robot Taisen 64",
+    "otherTitles": null,
+    "developers": [
+      "A.I."
+    ],
+    "publishers": [
+      "Banpresto"
+    ],
+    "genres": [
+      "Role Playing",
+      "Turn Based"
+    ],
+    "firstReleased": "1999-10-29T00:00:00.000Z",
+    "japanRelease": "1999-10-29T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582f8",
+    "title": "Super Smash Bros.",
+    "otherTitles": [
+      "Nintendo All Star! Dai Rantō Smash Brothers"
+    ],
+    "developers": [
+      "HAL Laboratory"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "firstReleased": "1999-01-21T00:00:00.000Z",
+    "japanRelease": "1999-01-21T00:00:00.000Z",
+    "usaRelease": "1999-04-26T00:00:00.000Z",
+    "euroRelease": "1999-11-19T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582f9",
+    "title": "Supercross 2000",
+    "otherTitles": null,
+    "developers": [
+      "MBL Research"
+    ],
+    "publishers": [
+      "EA Sports"
+    ],
+    "genres": [
+      "Racing",
+      "Motorcycle"
+    ],
+    "firstReleased": "1999-10-31T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-10-31T00:00:00.000Z",
+    "euroRelease": "2000-02-01T02:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582fa",
+    "title": "Superman: The New Superman Adventures",
+    "otherTitles": [
+      "Superman"
+    ],
+    "developers": [
+      "Titus Interactive"
+    ],
+    "publishers": [
+      "Titus Software"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "firstReleased": "1999-05-31T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-05-31T00:00:00.000Z",
+    "euroRelease": "1999-07-23T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582fb",
+    "title": "Susume! Taisen Puzzle Dama: Tokon! Marutama Cho",
+    "otherTitles": null,
+    "developers": [
+      "KCEK"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "genres": [
+      "Puzzle",
+      "Tile Matching"
+    ],
+    "firstReleased": "1998-03-26T00:00:00.000Z",
+    "japanRelease": "1998-03-26T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582fc",
+    "title": "Taz Express",
+    "otherTitles": null,
+    "developers": [
+      "Zed Two"
+    ],
+    "publishers": [
+      "Infogrames"
+    ],
+    "genres": [
+      "Action",
+      "3D Platformer"
+    ],
+    "firstReleased": "2000-08-01T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": null,
+    "euroRelease": "2000-08-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582fd",
+    "title": "Tetris 64",
+    "otherTitles": null,
+    "developers": [
+      "Amtex"
+    ],
+    "publishers": [
+      "SETA Corporation"
+    ],
+    "genres": [
+      "Puzzle",
+      "Stacking"
+    ],
+    "firstReleased": "1998-11-13T00:00:00.000Z",
+    "japanRelease": "1998-11-13T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582fe",
+    "title": "Tetrisphere",
+    "otherTitles": null,
+    "developers": [
+      "H2O Entertainment"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Puzzle",
+      "Stacking"
+    ],
+    "firstReleased": "1997-08-11T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1997-08-11T00:00:00.000Z",
+    "euroRelease": "1998-02-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f582ff",
+    "title": "Tigger's Honey Hunt",
+    "otherTitles": null,
+    "developers": [
+      "DokiDenki Studio"
+    ],
+    "publishers": [
+      "NewKidCo",
+      "Ubi Soft"
+    ],
+    "genres": [
+      "Action",
+      "2D Platformer"
+    ],
+    "firstReleased": "2000-11-01T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-11-01T00:00:00.000Z",
+    "euroRelease": "2001-04-06T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58300",
+    "title": "Tom Clancy's Rainbow Six",
+    "otherTitles": null,
+    "developers": [
+      "Saffire"
+    ],
+    "publishers": [
+      "Red Storm Entertainment"
+    ],
+    "genres": [
+      "Action",
+      "Tactical Shooter"
+    ],
+    "firstReleased": "1999-11-17T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-11-17T00:00:00.000Z",
+    "euroRelease": "1999-12-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58301",
+    "title": "Tom and Jerry in Fists of Furry",
+    "otherTitles": null,
+    "developers": [
+      "VIS Entertainment"
+    ],
+    "publishers": [
+      "Ubi Soft",
+      "NewKidCo"
+    ],
+    "genres": [
+      "Action",
+      "Arena Fighter"
+    ],
+    "firstReleased": "2000-08-12T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-11-12T00:00:00.000Z",
+    "euroRelease": "2000-08-12T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58302",
+    "title": "Tonic Trouble",
+    "otherTitles": null,
+    "developers": [
+      "Ubi Soft Montreal"
+    ],
+    "publishers": [
+      "Ubi Soft"
+    ],
+    "genres": [
+      "Action",
+      "3D Platformer"
+    ],
+    "firstReleased": "1999-08-31T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-08-31T00:00:00.000Z",
+    "euroRelease": "1999-10-24T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58303",
+    "title": "Tony Hawk's Pro Skater",
+    "otherTitles": [
+      "Tony Hawk's Skateboarding"
+    ],
+    "developers": [
+      "Edge of Reality"
+    ],
+    "publishers": [
+      "Activision"
+    ],
+    "genres": [
+      "Sports",
+      "Extreme Sports"
+    ],
+    "firstReleased": "2000-02-29T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-02-29T00:00:00.000Z",
+    "euroRelease": "2001-12-10T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58304",
+    "title": "Tony Hawk's Pro Skater 2",
+    "otherTitles": null,
+    "developers": [
+      "Edge of Reality"
+    ],
+    "publishers": [
+      "Activision"
+    ],
+    "genres": [
+      "Sports",
+      "Extreme Sports"
+    ],
+    "firstReleased": "2001-08-21T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2001-08-21T00:00:00.000Z",
+    "euroRelease": "2001-10-12T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58305",
+    "title": "Tony Hawk's Pro Skater 3",
+    "otherTitles": null,
+    "developers": [
+      "Edge of Reality"
+    ],
+    "publishers": [
+      "Activision"
+    ],
+    "genres": [
+      "Sports",
+      "Extreme Sports"
+    ],
+    "firstReleased": "2002-08-20T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2002-08-20T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58306",
+    "title": "Top Gear Hyper-Bike",
+    "otherTitles": null,
+    "developers": [
+      "Snowblind Studios"
+    ],
+    "publishers": [
+      "Kemco"
+    ],
+    "genres": [
+      "Racing",
+      "Motorcycle"
+    ],
+    "firstReleased": "2000-03-17T00:00:00.000Z",
+    "japanRelease": "2000-03-17T00:00:00.000Z",
+    "usaRelease": "2000-03-27T00:00:00.000Z",
+    "euroRelease": "2000-01-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58307",
+    "title": "Top Gear Overdrive",
+    "otherTitles": null,
+    "developers": [
+      "Snowblind Studios"
+    ],
+    "publishers": [
+      "Kemco"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "1998-11-23T00:00:00.000Z",
+    "japanRelease": "1999-03-19T00:00:00.000Z",
+    "usaRelease": "1998-11-23T00:00:00.000Z",
+    "euroRelease": "1998-11-25T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58308",
+    "title": "Top Gear Rally",
+    "otherTitles": null,
+    "developers": [
+      "Boss Game Studios"
+    ],
+    "publishers": [
+      "Midway Home Entertainment",
+      "Kemco"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "1997-10-01T00:00:00.000Z",
+    "japanRelease": "1997-12-05T02:00:00.000Z",
+    "usaRelease": "1997-10-01T00:00:00.000Z",
+    "euroRelease": "1997-11-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58309",
+    "title": "Top Gear Rally 2",
+    "otherTitles": null,
+    "developers": [
+      "Saffire"
+    ],
+    "publishers": [
+      "Kemco"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "1999-12-03T00:00:00.000Z",
+    "japanRelease": "2000-02-04T00:00:00.000Z",
+    "usaRelease": "1999-12-03T00:00:00.000Z",
+    "euroRelease": "2000-02-28T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5830a",
+    "title": "Transformers: Beast Wars Transmetals",
+    "otherTitles": [
+      "Transformers: Beast Wars Metals 64"
+    ],
+    "developers": [
+      "Takara Locomotive Corporation"
+    ],
+    "publishers": [
+      "TakaraJP Bay Area Multimedia"
+    ],
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "firstReleased": "1999-10-01T00:00:00.000Z",
+    "japanRelease": "1999-10-01T00:00:00.000Z",
+    "usaRelease": "2000-11-15T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5830b",
+    "title": "Triple Play 2000",
+    "otherTitles": null,
+    "developers": [
+      "Treyarch"
+    ],
+    "publishers": [
+      "EA Sports"
+    ],
+    "genres": [
+      "Sports",
+      "Baseball"
+    ],
+    "firstReleased": "1999-03-22T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-03-22T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5830c",
+    "title": "Turok 2: Seeds of Evil",
+    "otherTitles": [
+      "Violence Killer: Turok New Generation"
+    ],
+    "developers": [
+      "Iguana Entertainment"
+    ],
+    "publishers": [
+      "Acclaim EntertainmentNA/PAL gemzi"
+    ],
+    "genres": [
+      "Action",
+      "First-Person Shooter"
+    ],
+    "firstReleased": "1998-12-10T00:00:00.000Z",
+    "japanRelease": "1999-06-18T00:00:00.000Z",
+    "usaRelease": "1998-12-10T00:00:00.000Z",
+    "euroRelease": "1998-12-18T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5830d",
+    "title": "Turok 3: Shadow of Oblivion",
+    "otherTitles": null,
+    "developers": [
+      "Acclaim Studios Austin"
+    ],
+    "publishers": [
+      "Acclaim Entertainment"
+    ],
+    "genres": [
+      "Action",
+      "First-Person Shooter"
+    ],
+    "firstReleased": "2000-09-06T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-09-06T00:00:00.000Z",
+    "euroRelease": "2000-09-08T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5830e",
+    "title": "Turok: Dinosaur Hunter",
+    "otherTitles": [
+      "Jikuu Senshi Turok"
+    ],
+    "developers": [
+      "Iguana Entertainment"
+    ],
+    "publishers": [
+      "Acclaim Entertainment Acclaim Japan"
+    ],
+    "genres": [
+      "Action",
+      "First-Person Shooter"
+    ],
+    "firstReleased": "1997-03-04T00:00:00.000Z",
+    "japanRelease": "1997-05-30T00:00:00.000Z",
+    "usaRelease": "1997-03-04T00:00:00.000Z",
+    "euroRelease": "1997-03-04T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5830f",
+    "title": "Turok: Rage Wars",
+    "otherTitles": null,
+    "developers": [
+      "Acclaim Studios Austin"
+    ],
+    "publishers": [
+      "Acclaim Entertainment"
+    ],
+    "genres": [
+      "Action",
+      "First-Person Shooter"
+    ],
+    "firstReleased": "1999-11-23T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-11-23T00:00:00.000Z",
+    "euroRelease": "1999-12-26T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58310",
+    "title": "Twisted Edge Extreme Snowboarding",
+    "otherTitles": null,
+    "developers": [
+      "Boss Game Studios"
+    ],
+    "publishers": [
+      "Kemco",
+      "Midway Home Entertainment"
+    ],
+    "genres": [
+      "Sports",
+      "Snowboarding"
+    ],
+    "firstReleased": "1998-11-10T00:00:00.000Z",
+    "japanRelease": "1998-12-18T00:00:00.000Z",
+    "usaRelease": "1998-11-10T00:00:00.000Z",
+    "euroRelease": "1999-03-12T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58311",
+    "title": "Ucchan Nanchan no Hono no Challenge: Denryu Ira Ira Bo",
+    "otherTitles": null,
+    "developers": [
+      "Yuke's"
+    ],
+    "publishers": [
+      "Hudson Soft"
+    ],
+    "genres": [
+      "Traditional",
+      "Steady Hand"
+    ],
+    "firstReleased": "1997-12-19T00:00:00.000Z",
+    "japanRelease": "1997-12-19T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58312",
+    "title": "V-Rally: Edition '99",
+    "otherTitles": null,
+    "developers": [
+      "Eden Studios"
+    ],
+    "publishers": [
+      "InfogramesPAL/NA Spike"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "1998-12-07T00:00:00.000Z",
+    "japanRelease": "1999-10-14T00:00:00.000Z",
+    "usaRelease": "1999-08-31T00:00:00.000Z",
+    "euroRelease": "1998-12-07T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58313",
+    "title": "Vigilante 8",
+    "otherTitles": null,
+    "developers": [
+      "Luxoflux"
+    ],
+    "publishers": [
+      "Activision"
+    ],
+    "genres": [
+      "Action",
+      "Vehicular combat"
+    ],
+    "firstReleased": "1999-03-17T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-03-17T00:00:00.000Z",
+    "euroRelease": "1999-03-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58314",
+    "title": "Vigilante 8: 2nd Offense",
+    "otherTitles": null,
+    "developers": [
+      "Luxoflux"
+    ],
+    "publishers": [
+      "Activision"
+    ],
+    "genres": [
+      "Action",
+      "Vehicular combat"
+    ],
+    "firstReleased": "2000-02-01T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-02-01T00:00:00.000Z",
+    "euroRelease": "2000-02-25T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58315",
+    "title": "Virtual Chess 64",
+    "otherTitles": null,
+    "developers": [
+      "Titus France"
+    ],
+    "publishers": [
+      "Titus Software"
+    ],
+    "genres": [
+      "Board Game",
+      "Chess"
+    ],
+    "firstReleased": "1998-06-10T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-06-10T00:00:00.000Z",
+    "euroRelease": "1998-07-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58316",
+    "title": "Virtual Pool 64",
+    "otherTitles": null,
+    "developers": [
+      "Celeris"
+    ],
+    "publishers": [
+      "Crave Entertainment"
+    ],
+    "genres": [
+      "Sports",
+      "Pool"
+    ],
+    "firstReleased": "1998-12-17T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-12-17T00:00:00.000Z",
+    "euroRelease": "1999-02-26T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58317",
+    "title": "Virtual Pro Wrestling 2: Ōdō Keishō",
+    "otherTitles": null,
+    "developers": [
+      "AKI Corporation"
+    ],
+    "publishers": [
+      "Asmik Ace Entertainment"
+    ],
+    "genres": [
+      "Sports",
+      "Pro Wrestling"
+    ],
+    "firstReleased": "2000-01-28T00:00:00.000Z",
+    "japanRelease": "2000-01-28T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58318",
+    "title": "Virtual Pro Wrestling 64",
+    "otherTitles": null,
+    "developers": [
+      "AKI Corporation"
+    ],
+    "publishers": [
+      "Asmik Ace Entertainment"
+    ],
+    "genres": [
+      "Sports",
+      "Pro Wrestling"
+    ],
+    "firstReleased": "1997-12-19T00:00:00.000Z",
+    "japanRelease": "1997-12-19T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58319",
+    "title": "Waialae Country Club: True Golf Classics",
+    "otherTitles": null,
+    "developers": [
+      "T&E Soft"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Sports",
+      "Golf"
+    ],
+    "firstReleased": "1998-07-29T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-07-29T00:00:00.000Z",
+    "euroRelease": "1998-08-24T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5831a",
+    "title": "War Gods",
+    "otherTitles": null,
+    "developers": [
+      "Eurocom"
+    ],
+    "publishers": [
+      "Midway Home Entertainment",
+      "GT Interactive"
+    ],
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "firstReleased": "1997-05-21T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1997-05-21T00:00:00.000Z",
+    "euroRelease": "1997-11-28T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5831b",
+    "title": "Wave Race 64",
+    "otherTitles": null,
+    "developers": [
+      "Nintendo EAD"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Sports",
+      "Jet Ski"
+    ],
+    "firstReleased": "1996-09-27T00:00:00.000Z",
+    "japanRelease": "1996-09-27T00:00:00.000Z",
+    "usaRelease": "1996-11-01T00:00:00.000Z",
+    "euroRelease": "1997-04-29T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5831c",
+    "title": "Wave Race 64 Shindō Pak Taiō Version",
+    "otherTitles": null,
+    "developers": [
+      "Nintendo EAD"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Sports",
+      "Jet Ski"
+    ],
+    "firstReleased": "1997-07-18T00:00:00.000Z",
+    "japanRelease": "1997-07-18T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5831d",
+    "title": "Wayne Gretzky's 3D Hockey",
+    "otherTitles": null,
+    "developers": [
+      "Midway Games"
+    ],
+    "publishers": [
+      "Midway Home Entertainment",
+      "GT Interactive"
+    ],
+    "genres": [
+      "Sports",
+      "Ice Hockey"
+    ],
+    "firstReleased": "1996-11-11T00:00:00.000Z",
+    "japanRelease": "1998-02-28T00:00:00.000Z",
+    "usaRelease": "1996-11-11T00:00:00.000Z",
+    "euroRelease": "1997-03-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5831e",
+    "title": "Wayne Gretzky's 3D Hockey '98",
+    "otherTitles": null,
+    "developers": [
+      "Software Creations"
+    ],
+    "publishers": [
+      "Midway Home Entertainment",
+      "GT Interactive"
+    ],
+    "genres": [
+      "Sports",
+      "Ice Hockey"
+    ],
+    "firstReleased": "1997-12-03T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1997-12-03T00:00:00.000Z",
+    "euroRelease": "1998-06-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5831f",
+    "title": "WCW Backstage Assault",
+    "otherTitles": null,
+    "developers": [
+      "Kodiak Interactive"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "genres": [
+      "Sports",
+      "Pro Wrestling"
+    ],
+    "firstReleased": "2000-12-12T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-12-12T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58320",
+    "title": "WCW Mayhem",
+    "otherTitles": null,
+    "developers": [
+      "Kodiak Interactive"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "genres": [
+      "Sports",
+      "Pro Wrestling"
+    ],
+    "firstReleased": "1999-09-21T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-09-21T00:00:00.000Z",
+    "euroRelease": "1999-09-24T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58321",
+    "title": "WCW Nitro",
+    "otherTitles": null,
+    "developers": [
+      "Inland Productions"
+    ],
+    "publishers": [
+      "THQ"
+    ],
+    "genres": [
+      "Sports",
+      "Pro Wrestling"
+    ],
+    "firstReleased": "1999-02-01T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-02-01T00:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58322",
+    "title": "WCW vs. nWo: World Tour",
+    "otherTitles": null,
+    "developers": [
+      "AKI Corporation"
+    ],
+    "publishers": [
+      "THQ"
+    ],
+    "genres": [
+      "Sports",
+      "Pro Wrestling"
+    ],
+    "firstReleased": "1997-11-30T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1997-11-30T00:00:00.000Z",
+    "euroRelease": "1998-02-12T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58323",
+    "title": "WCW/nWo Revenge",
+    "otherTitles": null,
+    "developers": [
+      "AKI Corporation"
+    ],
+    "publishers": [
+      "THQ"
+    ],
+    "genres": [
+      "Sports",
+      "Pro Wrestling"
+    ],
+    "firstReleased": "1998-10-26T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-10-26T00:00:00.000Z",
+    "euroRelease": "1998-11-30T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58324",
+    "title": "Wetrix",
+    "otherTitles": null,
+    "developers": [
+      "Zed Two"
+    ],
+    "publishers": [
+      "Ocean Software",
+      "Imagineer"
+    ],
+    "genres": [
+      "Puzzle",
+      "Logic"
+    ],
+    "firstReleased": "1998-06-12T00:00:00.000Z",
+    "japanRelease": "1998-11-27T00:00:00.000Z",
+    "usaRelease": "1998-06-12T00:00:00.000Z",
+    "euroRelease": "1998-06-16T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58325",
+    "title": "Wheel of Fortune",
+    "otherTitles": null,
+    "developers": [
+      "GameTek"
+    ],
+    "publishers": [
+      "GameTek"
+    ],
+    "genres": [
+      "Trivia",
+      "Game Show"
+    ],
+    "firstReleased": "1997-12-12T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1997-12-02T02:00:00.000Z",
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58326",
+    "title": "WinBack: Covert Operations",
+    "otherTitles": [
+      "Winback",
+      "Operation: Winback"
+    ],
+    "developers": [
+      "Omega Force"
+    ],
+    "publishers": [
+      "Koei",
+      "Virgin Interactive"
+    ],
+    "genres": [
+      "Action",
+      "Third-Person Shooter"
+    ],
+    "firstReleased": "1999-09-23T00:00:00.000Z",
+    "japanRelease": "1999-09-23T00:00:00.000Z",
+    "usaRelease": "1999-09-30T00:00:00.000Z",
+    "euroRelease": "2000-07-07T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58327",
+    "title": "Wipeout 64",
+    "otherTitles": null,
+    "developers": [
+      "Psygnosis"
+    ],
+    "publishers": [
+      "Midway Home Entertainment"
+    ],
+    "genres": [
+      "Racing",
+      "Hovercraft"
+    ],
+    "firstReleased": "1998-11-03T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-11-03T00:00:00.000Z",
+    "euroRelease": "1999-01-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58328",
+    "title": "Wonder Project J2: Koruro no Mori no Jozetto",
+    "otherTitles": null,
+    "developers": [
+      "Givro Corporation"
+    ],
+    "publishers": [
+      "Enix"
+    ],
+    "genres": [
+      "Simulation",
+      "Virtual Pet"
+    ],
+    "firstReleased": "1996-11-22T00:00:00.000Z",
+    "japanRelease": "1996-11-22T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58329",
+    "title": "World Cup 98",
+    "otherTitles": [
+      "Frankreich 98: Die Fussball-WM",
+      "Copa del Mundo: Francia 98"
+    ],
+    "developers": [
+      "EA Canada"
+    ],
+    "publishers": [
+      "EA Sports"
+    ],
+    "genres": [
+      "Sports",
+      "Soccer"
+    ],
+    "firstReleased": "1998-05-18T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-05-18T00:00:00.000Z",
+    "euroRelease": "1998-05-18T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5832a",
+    "title": "World Driver Championship",
+    "otherTitles": null,
+    "developers": [
+      "Boss Game Studios"
+    ],
+    "publishers": [
+      "Midway Home Entertainment",
+      "Midway Games Ltd"
+    ],
+    "genres": [
+      "Racing",
+      "Automobile"
+    ],
+    "firstReleased": "1999-05-31T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-05-31T00:00:00.000Z",
+    "euroRelease": "1999-11-01T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5832b",
+    "title": "The World Is Not Enough",
+    "otherTitles": null,
+    "developers": [
+      "Eurocom"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "genres": [
+      "Action",
+      "First-Person Shooter"
+    ],
+    "firstReleased": "2000-10-17T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-10-17T00:00:00.000Z",
+    "euroRelease": "2000-12-08T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5832c",
+    "title": "Worms Armageddon",
+    "otherTitles": null,
+    "developers": [
+      "Infogrames Lyon House"
+    ],
+    "publishers": [
+      "Infogrames"
+    ],
+    "genres": [
+      "Strategy",
+      "Turn-Based"
+    ],
+    "firstReleased": "1999-12-11T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-03-30T00:00:00.000Z",
+    "euroRelease": "1999-12-11T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5832d",
+    "title": "WWF Attitude",
+    "otherTitles": null,
+    "developers": [
+      "Acclaim Studios Salt Lake City"
+    ],
+    "publishers": [
+      "Acclaim Sports"
+    ],
+    "genres": [
+      "Sports",
+      "Pro Wrestling"
+    ],
+    "firstReleased": "1999-07-31T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-07-31T00:00:00.000Z",
+    "euroRelease": "1999-08-09T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5832e",
+    "title": "WWF No Mercy",
+    "otherTitles": null,
+    "developers": [
+      "AKI Corporation"
+    ],
+    "publishers": [
+      "THQ"
+    ],
+    "genres": [
+      "Sports",
+      "Pro Wrestling"
+    ],
+    "firstReleased": "2000-11-17T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "2000-11-17T00:00:00.000Z",
+    "euroRelease": "2000-12-15T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f5832f",
+    "title": "WWF War Zone",
+    "otherTitles": null,
+    "developers": [
+      "Iguana West"
+    ],
+    "publishers": [
+      "Acclaim Sports"
+    ],
+    "genres": [
+      "Sports",
+      "Pro Wrestling"
+    ],
+    "firstReleased": "1998-08-11T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1998-08-11T00:00:00.000Z",
+    "euroRelease": "1998-08-21T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58330",
+    "title": "WWF Wrestlemania 2000",
+    "otherTitles": null,
+    "developers": [
+      "AKI Corporation"
+    ],
+    "publishers": [
+      "THQ",
+      "Asmik Ace"
+    ],
+    "genres": [
+      "Sports",
+      "Pro Wrestling"
+    ],
+    "firstReleased": "1999-10-12T00:00:00.000Z",
+    "japanRelease": "2000-09-15T00:00:00.000Z",
+    "usaRelease": "1999-10-31T00:00:00.000Z",
+    "euroRelease": "1999-10-12T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58331",
+    "title": "Xena: Warrior Princess - The Talisman of Fate",
+    "otherTitles": [
+      "Xena: Warrior Princess"
+    ],
+    "developers": [
+      "Saffire"
+    ],
+    "publishers": [
+      "Titus Software"
+    ],
+    "genres": [
+      "Action",
+      "Fighting"
+    ],
+    "firstReleased": "1999-12-14T00:00:00.000Z",
+    "japanRelease": null,
+    "usaRelease": "1999-12-14T00:00:00.000Z",
+    "euroRelease": "1999-12-17T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58332",
+    "title": "Yakochu II: Satsujin Koro",
+    "otherTitles": null,
+    "developers": [
+      "Athena"
+    ],
+    "publishers": [
+      "Athena"
+    ],
+    "genres": [
+      "Adventure",
+      "Visual Novel"
+    ],
+    "firstReleased": "1999-10-22T00:00:00.000Z",
+    "japanRelease": "1999-10-22T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58333",
+    "title": "Yoshi's Story",
+    "otherTitles": [
+      "Yoshi Story"
+    ],
+    "developers": [
+      "Nintendo EAD"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "genres": [
+      "Action",
+      "2D Platformer"
+    ],
+    "firstReleased": "1997-12-21T00:00:00.000Z",
+    "japanRelease": "1997-12-21T00:00:00.000Z",
+    "usaRelease": "1998-03-10T00:00:00.000Z",
+    "euroRelease": "1998-05-10T00:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "60456ad4271ec082f7f58334",
+    "title": "Zoor: Majū Tsukai Densetsu",
+    "otherTitles": null,
+    "developers": [
+      "Pandora Box"
+    ],
+    "publishers": [
+      "Imagineer"
+    ],
+    "genres": [
+      "Role Playing",
+      "JRPG"
+    ],
+    "firstReleased": "1999-06-11T00:00:00.000Z",
+    "japanRelease": "1999-06-11T00:00:00.000Z",
+    "usaRelease": null,
+    "euroRelease": null,
+    "__v": 0
+  }
+]
